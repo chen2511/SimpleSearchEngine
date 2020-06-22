@@ -1,0 +1,2 @@
+# SimpleSearchEngine
+Course assignments
