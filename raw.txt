@@ -1,0 +1,2325 @@
+
+version: 1.0
+url: https://news.nwpu.edu.cn/info/1002/70884.htm
+date: 2020-06-23 02:26:41
+length: 22913
+
+<html lang="en"><head><title>西安市副市长王勇来校调研-视窗-西北工业大学新闻网</title><meta name="keywords" content="视窗-西北工业大学新闻网,西安市,西安,副市长,市长,王勇,调研">
+<meta name="description" content="西工大新闻网6月19日电(唐惟怡 摄影记者 司哲)6月18日下午，西安市副市长王勇一行来校调研，学校党委常委、副校长何国强，学校副总会计师张建新，校科研院、国资处，西安爱生技术集团公司、陕西空天动力研究院有限公司、西安鑫垚陶瓷复合材料有限公司、西安西工大超晶科技发展有限责任公司以及资产公司等相关负责人参加了座谈会。">
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
+<meta charset="UTF-8"><link rel="stylesheet" href="../../css2018/style2018.css"><script src="../../js2018/bdtxk2018.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525b544003070000 -->
+<link rel="stylesheet" type="text/css" href="../../zzzcontent1.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zzzcontent1.jsp',70884,867808034)</script>
+</head>
+<body class="bg" style=""><!-- head start -->
+<div class="head">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<div class="head-l fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="新闻网"><img src="../../images2018/logo.png" width="425" height="63" border="0" alt="新闻网" title="新闻网"></a></div>
+<div class="head-r fr" style="width:530px;">
+<div class="head-r-t"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="../../xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40184)">新闻报道协调单</a>|
+<a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40186)">新闻热线</a>
+</div>
+<div class="head-r-b"><span><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar198820EnDateString;
+
+var c_Calendar198820WeekDayString;
+
+//阴历
+var c_Calendar198820CnDateString;
+//节气
+var c_Calendar198820JQString;
+//年
+var c_Calendar198820YearString;
+//月
+var c_Calendar198820MonthString;
+//日
+var c_Calendar198820DayString;
+//周
+var c_Calendar198820WeekString;
+function RunGLNL198820()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar198820CnDateString=sc.getCnDateString();
+    c_Calendar198820WeekDayString=sc.getCalendarWeekString();
+    c_Calendar198820JQString=sc.getJQString();
+    c_Calendar198820EnDateString=sc.getEnDateString();
+    c_Calendar198820YearString=sc.getYearString();
+    c_Calendar198820MonthString=sc.getMonthString();
+    c_Calendar198820DayString=sc.getDayString();
+    c_Calendar198820WeekString=sc.getWeekString();
+}
+RunGLNL198820();
+document.write('<div id="c_lunar198820"   class="fontstyle198820"  >');       
+document.write(c_Calendar198820EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820CnDateString);
+
+
+document.write("</div>");
+
+</script><div id="c_lunar198820" class="fontstyle198820">2020年6月23日&nbsp;&nbsp;星期二&nbsp;&nbsp;庚子年五月初三</div>
+</span>
+
+
+
+
+
+<form action="../../zzzsearch1.jsp?wbtreeid=1002" method="post" name="a198819a" onsubmit="return subsearchdataa198819a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+<input size="12" name="INTEXT" class="ss" placeholder="请输入关键字" style="height:32px">
+<input type="image" class="btn" src="../../images2018/search.png" align="absmiddle" valign="bottom" style="cursor: hand">
+               
+</form>
+<script>
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+function subsearchdataa198819a()
+{ 
+    if(document.a198819a.INTEXT.value.trim()=="")
+    {
+         alert("请输入查询关键字！");
+         return false;
+    }
+    if(checkDataa198819a(document.a198819a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa198819a(formname)
+    {
+        if(a198819a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a198819a.INTEXT.value;
+                document.a198819a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a198819a.INTEXT2.value = base64.encode(document.a198819a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="nav">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<ul>    <li><a href="../../index.htm" title="首    页">首    页</a></li>
+    <li><a href="../../rdjj.htm" title="热点聚焦">热点聚焦</a></li>
+    <li><a href="../../gdyw.htm" title="工大要闻">工大要闻</a></li>
+    <li><a href="../../xyxw.htm" title="校园动态">校园动态</a></li>
+    <li><a href="../../mtgd.htm" title="媒体工大">媒体工大</a></li>
+    <li><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank" title="视频新闻">视频新闻</a></li>
+</ul></div></div>
+<div class="clear"></div>
+
+<!-- 侧边栏 -->
+<div class="side">
+<ul class="side-t">    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40220)"><p>新闻报道协调单</p></a></li>
+    <li><a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40222)"><p>新闻热线</p></a></li>
+</ul>
+<ul class="side-m">    <li><a href="javascript:void(0)" title="" onclick="_addDynClicks(&quot;wbimage&quot;, 867808034, 41960)" target="_blank"></a><div class="bg-erweima"><img src="../../images2018/wxm.png"></div> </li>
+
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40301)" target="_" blank=""><p style="top:20px">微博</p></a></li>
+</ul>
+<ul class="side-b">
+    <li><a href="#" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40223)"></a></li>
+
+<li><a href="javascript:void(0)"><img src="../../images2018/side5.png"></a>
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div class="bg-erweima"><div id="outputu9" style="width: 80px;height:80px;padding:3px;position:absolute;top:12px;right:52px;display:none;background:#fff"><canvas width="80" height="80"></canvas></div></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu9').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 80,     //设置宽度  
+        height: 80,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+
+
+})
+
+
+</script>
+<script>
+jQuery(function(){
+jQuery('.side li').hover(function(){
+	$(this).find('#outputu9').toggle();
+$(this).find('.bg-erweima').toggle();
+})
+})
+</script> 
+</li><li><a href="#"></a></li></ul></div>
+<!-- list-main start -->
+<div class="list-main">
+<div class="wrapper" style="width:1000px;margin:0px auto;overflow:hidden">
+<div class="fl info-l">
+<div class="h3"><span class="fl">工大要闻</span><span class="fr"><div style="font-size:14px">
+    当前位置: 
+                        <a href="../../index.htm" style="font-size:14px">首    页</a>
+                &gt;&gt;
+                <a href="../../gdyw.htm" style="font-size:14px">工大要闻</a>
+                &gt;&gt;
+                正文
+</div></span></div>
+<div class="artical">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><link href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <h5 align="center">西安市副市长王勇来校调研</h5>
+<div class="time">
+<span>发布时间：2020-06-19 20:29:22</span>
+<span style="margin-left:10px">作者：唐惟怡</span>
+<span style="margin-left:10px">来源：资产公司
+     </span>
+<span style="margin-left:10px">已浏览：<script>_showDynClicks("wbnews", 867808034, 70884)</script><span id="dynclicks_wbnews_70884_22" name="dynclicks_wbnews_70884_22">1522</span></span>
+</div>
+    <div class="nr" id="vsb_content_2"><div class="v_news_content">
+<div>
+ <p class="vsbcontent_start"><strong>西工大新闻网6月19日电</strong>(<strong>唐惟怡 </strong>摄影记者<strong> 司哲</strong>)6月18日下午，西安市副市长王勇一行来校调研，学校党委常委、副校长何国强，学校副总会计师张建新，校科研院、国资处，西安爱生技术集团公司、陕西空天动力研究院有限公司、西安鑫垚陶瓷复合材料有限公司、西安西工大超晶科技发展有限责任公司以及资产公司等相关负责人参加了座谈会。会议由资产公司总经理、国家大学科技园主任符新伟主持。</p>
+ <p style="text-align: center;"><img width="600" src="/__local/6/0F/7D/A4BDDC1A6DB1DD8D8F46ABE7A31_2DD82765_F3273.jpg" vsbhref="vurl" vurl="/_vsl/60F7DA4BDDC1A6DB1DD8D8F46ABE7A31/2DD82765/F3273" vheight="" vwidth="600" orisrc="/__local/6/0F/7D/A4BDDC1A6DB1DD8D8F46ABE7A31_2DD82765_F3273.jpg" class="img_vsb_content"></p>
+ <p>何国强副校长对王勇副市长一行来校就科技成果转化进行调研表示欢迎。他强调，学校一直注重科技成果转化，将服务国防军工领域的高精尖技术转化为科技生产力，形成了铂力特、鑫垚等一批行业龙头企业，为大西安建设乃至陕西经济的发展<a></a>做出了应有的贡献。学校将全面贯彻落实习总书记来陕讲话精神，继续发挥科技优势，融通科技创新全产业链路，主动作为，抓抢机遇，开拓进取，努力开创科技成果转化新局面，为西安科技创新再立新功。</p>
+ <p style="text-align: center;"><img width="600" src="/__local/F/C4/77/875B10B9C1B1A1D24E946083991_320D2831_8FDBF.jpg" vsbhref="vurl" vurl="/_vsl/FC477875B10B9C1B1A1D24E946083991/320D2831/8FDBF" vheight="" vwidth="600" orisrc="/__local/F/C4/77/875B10B9C1B1A1D24E946083991_320D2831_8FDBF.jpg" class="img_vsb_content"></p>
+ <p>座谈会上，各企业分别做了汇报，并就企业发展遇到的问题、政策优惠、成果转化、产学研合作、科技企业上市规划等问题进行了深入研讨与交流。</p>
+ <p style="text-align: center;"><img width="600" src="/__local/2/54/24/03EDCA25C8EF6D6A5530B30228B_50F9EF90_AA640.jpg" vsbhref="vurl" vurl="/_vsl/2542403EDCA25C8EF6D6A5530B30228B/50F9EF90/AA640" vheight="" vwidth="600" orisrc="/__local/2/54/24/03EDCA25C8EF6D6A5530B30228B_50F9EF90_AA640.jpg" class="img_vsb_content"></p>
+ <p>王勇副市长对学校为西安经济的发展做出的贡献表示感谢。他指出，西工大孵化成立的科技企业都是“硬科技”企业，极大的推进了科技的进步和地方经济的发展。他表示，市政府将坚决扶持科技企业上市并支持已上市企业做强做大。同时他希望，西工大作为一所以发展航空、航天、航海（三航）等领域人才培养和科学研究为特色的多科性、研究型、开放式大学，要发挥好其科技成果转化的担当与责任，为打造西安“硬科技之都”添砖加瓦！</p>
+ <p class="vsbcontent_end" style="text-align: right;">（ 审稿：李健）</p>
+</div>
+</div></div><div id="div_vote_id"></div>
+    
+</div>
+</form></div><!-- 相关文章 -->
+<div class="xiangguan">
+<div class="h5">相关文章</div>
+<ul>
+
+<span id="relateNewsjs198858js"><table class="winstyle" width="100%"><tbody><tr><td height="19" valign="middle" width="1" nowrap=""><span class="leaderfont198858"></span></td><td valign="middle">&nbsp;<a href="54744.htm" target="_blank" title="西安市副市长方光华带队来校对接校友回归项目"><span class="titlestyle198858">西安市副市长方光华带队来校对接校友回归项目</span></a>&nbsp;</td><td valign="middle" class="timestyle198858">2018-04-16</td></tr><tr><td height="19" valign="middle" width="1" nowrap=""><span class="leaderfont198858"></span></td><td valign="middle">&nbsp;<a href="68788.htm" target="_blank" title="西安市副市长强晓安一行来西工大看望外籍教师"><span class="titlestyle198858">西安市副市长强晓安一行来西工大看望外籍教师</span></a>&nbsp;</td><td valign="middle" class="timestyle198858">2020-03-04</td></tr><tr><td height="19" valign="middle" width="1" nowrap=""><span class="leaderfont198858"></span></td><td valign="middle">&nbsp;<a href="70439.htm" target="_blank" title="铜川市副市长白崇军一行来校调研"><span class="titlestyle198858">铜川市副市长白崇军一行来校调研</span></a>&nbsp;</td><td valign="middle" class="timestyle198858">2020-05-28</td></tr><tr><td height="19" valign="middle" width="1" nowrap=""><span class="leaderfont198858"></span></td><td valign="middle">&nbsp;<a href="../1003/60340.htm" target="_blank" title="西安市副市长强晓安来校召开西安市支持西北工业大学发展校地合作联席会议"><span class="titlestyle198858">西安市副市长强晓安来校召开西安市支持西北工业大学发展校地合作...</span></a>&nbsp;</td><td valign="middle" class="timestyle198858">2018-12-17</td></tr><tr><td height="19" valign="middle" width="1" nowrap=""><span class="leaderfont198858"></span></td><td valign="middle">&nbsp;<a href="54643.htm" target="_blank" title="张掖市副市长安文波一行来校调研"><span class="titlestyle198858">张掖市副市长安文波一行来校调研</span></a>&nbsp;</td><td valign="middle" class="timestyle198858">2018-04-12</td></tr></tbody></table></span>
+
+<script language="JavaScript">
+getRelateNewsjs198858js(0);
+function getRelateNewsjs198858js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle198858&viewid=198858&leaderchar=&titlelen=32&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/view/_webprj/zzzcontent1.jsp&columnshow=false&wbnewsid=70884&owner=867808034&limitdays=182&rowcount=5&columnstyle= columnstyle198858 &columnid=-1&uid=u13'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont198858&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle198858&timestylename=timestyle198858";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+		if(ajax.status=='12031')
+		{
+			temp++;
+			if(temp<2)
+			{
+				getRelateNews_ajax(temp);
+			}
+		}
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs198858js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+</ul></div></div>
+<div class="list-r fr">
+<div class="dt">
+<div class="h3">
+<div class="fl">校园动态</div>
+<div class="fr"><a href="../../xyxw.htm">更多+</a></div></div>
+<ul>   <li><a href="../1003/70880.htm" target="_blank" title="后勤办公室赴长安校区各学院开展后勤服务保障质量调研">后勤办公室赴长安校区各学院开展后勤服...</a></li>
+   <li><a href="../1003/70879.htm" target="_blank" title="自动化学院召开控制科学与工程学科第五轮学科评估工作研讨会">自动化学院召开控制科学与工程学科第五...</a></li>
+   <li><a href="../1003/70878.htm" target="_blank" title="【自动化学院党建】自动化学院召开党委会扩大会视频会议">【自动化学院党建】自动化学院召开党委...</a></li>
+   <li><a href="../1003/70877.htm" target="_blank" title="【自动化学院党建】自动化学院召开以“师德师风”为主题的党委中心组学习扩大会视频会议">【自动化学院党建】自动化学院召开以“...</a></li>
+   <li><a href="../1003/70876.htm" target="_blank" title="我校召开中华优秀传统文化传承基地申报工作推进会">我校召开中华优秀传统文化传承基地申报...</a></li>
+<script>_showDynClickBatch(['dynclicks_u14_70880','dynclicks_u14_70879','dynclicks_u14_70878','dynclicks_u14_70877','dynclicks_u14_70876'],[70880,70879,70878,70877,70876],"wbnews", 867808034)</script>
+</ul>
+<ul>   <li><a href="../1003/70875.htm" target="_blank" title="生命学院召开全院教职工视频会议">生命学院召开全院教职工视频会议</a></li>
+   <li><a href="../1003/70872.htm" target="_blank" title="校工会举办教代会代表提案征集与撰写培训会">校工会举办教代会代表提案征集与撰写培训会</a></li>
+   <li><a href="../1003/70865.htm" target="_blank" title="财务处召开干部任免宣布会议">财务处召开干部任免宣布会议</a></li>
+   <li><a href="../1003/70863.htm" target="_blank" title="西北工业大学召开党委学生工作部、机电学院经济责任审计进点会">西北工业大学召开党委学生工作部、机电...</a></li>
+   <li><a href="../1003/70862.htm" target="_blank" title="计算机学院赴365所开展科研交流活动">计算机学院赴365所开展科研交流活动</a></li>
+<script>_showDynClickBatch(['dynclicks_u15_70880','dynclicks_u15_70879','dynclicks_u15_70878','dynclicks_u15_70877','dynclicks_u15_70876','dynclicks_u15_70875','dynclicks_u15_70872','dynclicks_u15_70865','dynclicks_u15_70863','dynclicks_u15_70862'],[70880,70879,70878,70877,70876,70875,70872,70865,70863,70862],"wbnews", 867808034)</script>
+</ul></div><!-- 视频新闻 -->
+<div class="news-sp">
+<div class="h3">
+<div class="fl">视频新闻</div>
+<div class="fr"><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank">更多+</a></div></div>
+<div class="pic-list">
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-11/28/cms15664article.shtml" target="_blank" title="2019年11月22日第1092期"><img alt="" src="/__local/E/B2/C5/2F463E5331BEC02CBA60CB18426_7F8D2323_81989.png"> <span></span>2019年11月22日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/10/cms15665article.shtml" target="_blank" title="2019年12月06日第1093期"><img alt="" src="/__local/E/09/B5/DDAC3098E599D0AA93353C2F2A3_4FB1F270_887B3.png"> <span></span>2019年12月06日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/20/cms15667article.shtml" target="_blank" title="2019年12月20日第1094期"><img alt="" src="/__local/6/F0/B0/01B8D684A7EF2151F745FC8C0B0_56E7C6D0_5E271.png"> <span></span>2019年12月20日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/25/cms15674article.shtml" target="_blank" title="2020年01月10日第1095期"><img alt="" src="/__local/B/A0/EC/8F3E4EB354D46C864EA3E147DEE_DC641DDE_79E30.png"> <span></span>2020年01月10日第109...</a></li>
+<script>_showDynClickBatch(['dynclicks_u16_70808','dynclicks_u16_70807','dynclicks_u16_70806','dynclicks_u16_70800'],[70808,70807,70806,70800],"wbnews", 867808034)</script>
+</ul></div>
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/11/cms15673article.shtml" target="_blank" title="2020年05月09日第1096期">2020年05月09日第1096期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/27/cms15646article.shtml" target="_blank" title="2019年05月24日第1081期">2019年05月24日第1081期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/10/cms15644article.shtml" target="_blank" title="2019年05月10日第1080期">2019年05月10日第1080期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/28/cms15643article.shtml" target="_blank" title="2019年04月26日第1079期">2019年04月26日第1079期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/19/cms15641article.shtml" target="_blank" title="2019年04月19日第1078期">2019年04月19日第1078期</a></li>
+<script>_showDynClickBatch(['dynclicks_u17_70808','dynclicks_u17_70807','dynclicks_u17_70806','dynclicks_u17_70800','dynclicks_u17_70799','dynclicks_u17_63885','dynclicks_u17_63884','dynclicks_u17_63866','dynclicks_u17_62529'],[70808,70807,70806,70800,70799,63885,63884,63866,62529],"wbnews", 867808034)</script>
+</ul></div><!-- 官方微博 -->
+<div class="weibo">
+<ul>
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40203)" target="_blank"></a></li>
+
+
+
+    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40205)" target="_blank"></a></li>
+
+
+</ul></div></div></div>
+<div class="footer">
+<div class="wrapper" style="width:1000px;margin:0px auto;">
+<div class="footer-l fl">
+<p><span>友情链接</span>Links</p>
+<div class="select-menu">
+<div class="select-menu-div"><input class="select-menu-input input2" readonly=""> </div>
+<ul class="select-menu-ul">    <li class="select"><a href="http://www.nwpu.edu.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40190)" target="_blank">西北工业大学</a></li>
+    <li><a href="http://www.miit.gov.cn/newweb/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40198)" target="_blank">工业和信息化部</a></li>
+    <li><a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40199)" target="_blank">教育部</a></li>
+    <li><a href="http://www.univs.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40195)" target="_blank">中国大学生在线</a></li>
+    <li><a href="http://www.xinhuanet.com/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40200)" target="_blank">新华网</a></li>
+    <li><a href="http://www.gmw.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40291)" target="_blank">光明网</a></li>
+    <li><a href="http://www.peopledaily.com.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40201)" target="_blank">人民网</a></li>
+</ul></div></div>
+<div class="footer-m fl" style="position: relative;">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<ul class=" list-paddingleft-2" style="font-size: medium; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: normal; color: rgb(0,0,0); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; margin: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-stroke-width: 0px; font-variant-ligatures: normal; font-variant-caps: normal"><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">友谊校区地址：西安市友谊西路127号&nbsp;&nbsp;&nbsp;&nbsp;邮编:710072</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">长安校区地址：西安市长安区东祥路1号 邮编:710129</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">西北工业大学党委宣传部 @ 版权所有 Copyright 2006-2018</p></li></ul><p></p><a href="http://news.nwpu.edu.cn/info/1214/46843.htm" target="_blank" style="color:#fff;font-size:12px;position: absolute;bottom:9px;right:20px">免责声明</a></div>
+<div class="footer-r fr">
+<ul>    <li><img alt="" src="../../images2018/wxewm.jpg" style="width:111px;height:110px"> 
+<p>官方微信</p></li>
+<li><img alt="" src="../../images2018/wbewm.jpg" style="width:111px;height:110px"> 
+<p>官方微博</p></li>
+
+</ul></div></div></div></div><!-- list-main end --><script src="../../js2018/inner2018.js"></script>
+<script src="../../js2018/slide2018.js"></script><script>
+   $(function(){
+    var speed = 1000;//自定义滚动速度
+             //回到顶部
+             $( ".side-b li:eq(2)").click( function () {
+                 $( "html,body").animate({ "scrollTop" : 0 }, speed);
+                 });
+      $( ".side-m li:eq(0)").hover(function(){
+$(this).find('.bg-erweima').toggle();
+
+                $(this).find('img').toggle();
+             })
+             $( ".side-m li:eq(0)").hover(function(){
+             $('.side-m .bg-erweima').toggle();
+             });
+
+})
+</script>
+
+</body></html>
+
+version: 1.0
+url: https://news.nwpu.edu.cn/info/1002/70874.htm
+date: 2020-06-23 02:26:42
+length: 20487
+
+<html lang="en"><head><title>中电十所来校就科研合作进行调研-视窗-西北工业大学新闻网</title><meta name="keywords" content="视窗-西北工业大学新闻网,中电十所,合作,调研">
+<meta name="description" content="6月18日上午，中国电子科技集团第十研究所副所长陈凤一行5人来校调研，科研院军工科研部部长王少华带领来宾参观了我校科技成果展览馆，党委副书记万小朋会见来宾。科研院、学工部、航空学院、航天学院、航海学院、电子信息学院、自动化学院、计算机学院相关负责人参加了座谈会。">
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
+<meta charset="UTF-8"><link rel="stylesheet" href="../../css2018/style2018.css"><script src="../../js2018/bdtxk2018.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525b544003070000 -->
+<link rel="stylesheet" type="text/css" href="../../zzzcontent1.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zzzcontent1.jsp',70874,867808034)</script>
+</head>
+<body class="bg" style=""><!-- head start -->
+<div class="head">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<div class="head-l fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="新闻网"><img src="../../images2018/logo.png" width="425" height="63" border="0" alt="新闻网" title="新闻网"></a></div>
+<div class="head-r fr" style="width:530px;">
+<div class="head-r-t"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="../../xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40184)">新闻报道协调单</a>|
+<a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40186)">新闻热线</a>
+</div>
+<div class="head-r-b"><span><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar198820EnDateString;
+
+var c_Calendar198820WeekDayString;
+
+//阴历
+var c_Calendar198820CnDateString;
+//节气
+var c_Calendar198820JQString;
+//年
+var c_Calendar198820YearString;
+//月
+var c_Calendar198820MonthString;
+//日
+var c_Calendar198820DayString;
+//周
+var c_Calendar198820WeekString;
+function RunGLNL198820()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar198820CnDateString=sc.getCnDateString();
+    c_Calendar198820WeekDayString=sc.getCalendarWeekString();
+    c_Calendar198820JQString=sc.getJQString();
+    c_Calendar198820EnDateString=sc.getEnDateString();
+    c_Calendar198820YearString=sc.getYearString();
+    c_Calendar198820MonthString=sc.getMonthString();
+    c_Calendar198820DayString=sc.getDayString();
+    c_Calendar198820WeekString=sc.getWeekString();
+}
+RunGLNL198820();
+document.write('<div id="c_lunar198820"   class="fontstyle198820"  >');       
+document.write(c_Calendar198820EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820CnDateString);
+
+
+document.write("</div>");
+
+</script><div id="c_lunar198820" class="fontstyle198820">2020年6月23日&nbsp;&nbsp;星期二&nbsp;&nbsp;庚子年五月初三</div>
+</span>
+
+
+
+
+
+<form action="../../zzzsearch1.jsp?wbtreeid=1002" method="post" name="a198819a" onsubmit="return subsearchdataa198819a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+<input size="12" name="INTEXT" class="ss" placeholder="请输入关键字" style="height:32px">
+<input type="image" class="btn" src="../../images2018/search.png" align="absmiddle" valign="bottom" style="cursor: hand">
+               
+</form>
+<script>
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+function subsearchdataa198819a()
+{ 
+    if(document.a198819a.INTEXT.value.trim()=="")
+    {
+         alert("请输入查询关键字！");
+         return false;
+    }
+    if(checkDataa198819a(document.a198819a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa198819a(formname)
+    {
+        if(a198819a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a198819a.INTEXT.value;
+                document.a198819a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a198819a.INTEXT2.value = base64.encode(document.a198819a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="nav">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<ul>    <li><a href="../../index.htm" title="首    页">首    页</a></li>
+    <li><a href="../../rdjj.htm" title="热点聚焦">热点聚焦</a></li>
+    <li><a href="../../gdyw.htm" title="工大要闻">工大要闻</a></li>
+    <li><a href="../../xyxw.htm" title="校园动态">校园动态</a></li>
+    <li><a href="../../mtgd.htm" title="媒体工大">媒体工大</a></li>
+    <li><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank" title="视频新闻">视频新闻</a></li>
+</ul></div></div>
+<div class="clear"></div>
+
+<!-- 侧边栏 -->
+<div class="side">
+<ul class="side-t">    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40220)"><p>新闻报道协调单</p></a></li>
+    <li><a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40222)"><p>新闻热线</p></a></li>
+</ul>
+<ul class="side-m">    <li><a href="javascript:void(0)" title="" onclick="_addDynClicks(&quot;wbimage&quot;, 867808034, 41960)" target="_blank"></a><div class="bg-erweima"><img src="../../images2018/wxm.png"></div> </li>
+
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40301)" target="_" blank=""><p style="top:20px">微博</p></a></li>
+</ul>
+<ul class="side-b">
+    <li><a href="#" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40223)"></a></li>
+
+<li><a href="javascript:void(0)"><img src="../../images2018/side5.png"></a>
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div class="bg-erweima"><div id="outputu9" style="width: 80px;height:80px;padding:3px;position:absolute;top:12px;right:52px;display:none;background:#fff"><canvas width="80" height="80"></canvas></div></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu9').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 80,     //设置宽度  
+        height: 80,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+
+
+})
+
+
+</script>
+<script>
+jQuery(function(){
+jQuery('.side li').hover(function(){
+	$(this).find('#outputu9').toggle();
+$(this).find('.bg-erweima').toggle();
+})
+})
+</script> 
+</li><li><a href="#"></a></li></ul></div>
+<!-- list-main start -->
+<div class="list-main">
+<div class="wrapper" style="width:1000px;margin:0px auto;overflow:hidden">
+<div class="fl info-l">
+<div class="h3"><span class="fl">工大要闻</span><span class="fr"><div style="font-size:14px">
+    当前位置: 
+                        <a href="../../index.htm" style="font-size:14px">首    页</a>
+                &gt;&gt;
+                <a href="../../gdyw.htm" style="font-size:14px">工大要闻</a>
+                &gt;&gt;
+                正文
+</div></span></div>
+<div class="artical">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><link href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <h5 align="center">中电十所来校就科研合作进行调研</h5>
+<div class="time">
+<span>发布时间：2020-06-19 14:40:04</span>
+<span style="margin-left:10px">作者：朱莉</span>
+<span style="margin-left:10px">来源：党委学生工作部
+     </span>
+<span style="margin-left:10px">已浏览：<script>_showDynClicks("wbnews", 867808034, 70874)</script><span id="dynclicks_wbnews_70874_318" name="dynclicks_wbnews_70874_318">163</span></span>
+</div>
+    <div class="nr" id="vsb_content_2"><div class="v_news_content">
+<p class="vsbcontent_start"><strong>西工大新闻网</strong><strong>6</strong><strong>月</strong><strong>19</strong><strong>日电</strong>（<strong>朱莉</strong>）6月18日上午，中国电子科技集团第十研究所副所长陈凤一行5人来校调研，科研院军工科研部部长王少华带领来宾参观了我校科技成果展览馆，党委副书记万小朋会见来宾。科研院、学工部、航空学院、航天学院、航海学院、电子信息学院、自动化学院、计算机学院相关负责人参加了座谈会。</p>
+<p class="vsbcontent_img"><img src="/__local/D/E5/48/2221CD6ED34ED1906F4BF46D89A_12EDA77F_24012.jpg" width="600" vsbhref="vurl" vurl="/_vsl/DE5482221CD6ED34ED1906F4BF46D89A/12EDA77F/24012" vheight="" vwidth="600" orisrc="/__local/D/E5/48/2221CD6ED34ED1906F4BF46D89A_12EDA77F_24012.jpg" class="img_vsb_content"></p>
+<p>万小朋对陈凤一行来访表示欢迎。他强调，学校十分重视与中电十所的关系，希望能进一步加强联系，强化合作意识，他希望中电十所提供更多资源和平台，让青年教师挂职锻炼，使我校师生参与到科研课题之中，进一步提高师生的科研水平，也真诚地邀请十所的专家担任“企业导师”参与到学校人才培养工作中来，为西工大人才培养工作提供指导、建言献策。</p>
+<p>陈凤对学校历年来为十所输送的大量科技人才表示感谢。她指出，西工大毕业生专业基础扎实，发展后劲足，为十所的发展作出重要贡献。陈凤表示，中电十所非常希望能与西工大建立全面的交流合作机制，希望以重点实验室为载体，在人才引进，尤其是博士引进、人才培养、课题合作和学术交流上加大合作步伐。</p>
+<p>座谈会上，双方就高端人才培养与输送、科研合作、项目研发和校园招聘事宜等进行了深入的交流和沟通，并在联合培养模式、学术活动、课题合作、人才引进办法等方面达成了共识，希望通过此次调研，进一步促使双方在全面合作中取长补短、加强交流、加快建设、推动发展。</p>
+<p class="vsbcontent_end" style="text-align: right;">（审稿：王莉）</p>
+</div></div><div id="div_vote_id"></div>
+    
+</div>
+</form></div><!-- 相关文章 -->
+<div class="xiangguan">
+<div class="h5">相关文章</div>
+<ul>
+
+<span id="relateNewsjs198858js">读取内容中,请等待...</span>
+
+<script language="JavaScript">
+getRelateNewsjs198858js(0);
+function getRelateNewsjs198858js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle198858&viewid=198858&leaderchar=&titlelen=32&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/view/_webprj/zzzcontent1.jsp&columnshow=false&wbnewsid=70874&owner=867808034&limitdays=182&rowcount=5&columnstyle= columnstyle198858 &columnid=-1&uid=u13'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont198858&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle198858&timestylename=timestyle198858";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+		if(ajax.status=='12031')
+		{
+			temp++;
+			if(temp<2)
+			{
+				getRelateNews_ajax(temp);
+			}
+		}
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs198858js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+</ul></div></div>
+<div class="list-r fr">
+<div class="dt">
+<div class="h3">
+<div class="fl">校园动态</div>
+<div class="fr"><a href="../../xyxw.htm">更多+</a></div></div>
+<ul>   <li><a href="../1003/70880.htm" target="_blank" title="后勤办公室赴长安校区各学院开展后勤服务保障质量调研">后勤办公室赴长安校区各学院开展后勤服...</a></li>
+   <li><a href="../1003/70879.htm" target="_blank" title="自动化学院召开控制科学与工程学科第五轮学科评估工作研讨会">自动化学院召开控制科学与工程学科第五...</a></li>
+   <li><a href="../1003/70878.htm" target="_blank" title="【自动化学院党建】自动化学院召开党委会扩大会视频会议">【自动化学院党建】自动化学院召开党委...</a></li>
+   <li><a href="../1003/70877.htm" target="_blank" title="【自动化学院党建】自动化学院召开以“师德师风”为主题的党委中心组学习扩大会视频会议">【自动化学院党建】自动化学院召开以“...</a></li>
+   <li><a href="../1003/70876.htm" target="_blank" title="我校召开中华优秀传统文化传承基地申报工作推进会">我校召开中华优秀传统文化传承基地申报...</a></li>
+<script>_showDynClickBatch(['dynclicks_u14_70880','dynclicks_u14_70879','dynclicks_u14_70878','dynclicks_u14_70877','dynclicks_u14_70876'],[70880,70879,70878,70877,70876],"wbnews", 867808034)</script>
+</ul>
+<ul>   <li><a href="../1003/70875.htm" target="_blank" title="生命学院召开全院教职工视频会议">生命学院召开全院教职工视频会议</a></li>
+   <li><a href="../1003/70872.htm" target="_blank" title="校工会举办教代会代表提案征集与撰写培训会">校工会举办教代会代表提案征集与撰写培训会</a></li>
+   <li><a href="../1003/70865.htm" target="_blank" title="财务处召开干部任免宣布会议">财务处召开干部任免宣布会议</a></li>
+   <li><a href="../1003/70863.htm" target="_blank" title="西北工业大学召开党委学生工作部、机电学院经济责任审计进点会">西北工业大学召开党委学生工作部、机电...</a></li>
+   <li><a href="../1003/70862.htm" target="_blank" title="计算机学院赴365所开展科研交流活动">计算机学院赴365所开展科研交流活动</a></li>
+<script>_showDynClickBatch(['dynclicks_u15_70880','dynclicks_u15_70879','dynclicks_u15_70878','dynclicks_u15_70877','dynclicks_u15_70876','dynclicks_u15_70875','dynclicks_u15_70872','dynclicks_u15_70865','dynclicks_u15_70863','dynclicks_u15_70862'],[70880,70879,70878,70877,70876,70875,70872,70865,70863,70862],"wbnews", 867808034)</script>
+</ul></div><!-- 视频新闻 -->
+<div class="news-sp">
+<div class="h3">
+<div class="fl">视频新闻</div>
+<div class="fr"><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank">更多+</a></div></div>
+<div class="pic-list">
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-11/28/cms15664article.shtml" target="_blank" title="2019年11月22日第1092期"><img alt="" src="/__local/E/B2/C5/2F463E5331BEC02CBA60CB18426_7F8D2323_81989.png"> <span></span>2019年11月22日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/10/cms15665article.shtml" target="_blank" title="2019年12月06日第1093期"><img alt="" src="/__local/E/09/B5/DDAC3098E599D0AA93353C2F2A3_4FB1F270_887B3.png"> <span></span>2019年12月06日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/20/cms15667article.shtml" target="_blank" title="2019年12月20日第1094期"><img alt="" src="/__local/6/F0/B0/01B8D684A7EF2151F745FC8C0B0_56E7C6D0_5E271.png"> <span></span>2019年12月20日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/25/cms15674article.shtml" target="_blank" title="2020年01月10日第1095期"><img alt="" src="/__local/B/A0/EC/8F3E4EB354D46C864EA3E147DEE_DC641DDE_79E30.png"> <span></span>2020年01月10日第109...</a></li>
+<script>_showDynClickBatch(['dynclicks_u16_70808','dynclicks_u16_70807','dynclicks_u16_70806','dynclicks_u16_70800'],[70808,70807,70806,70800],"wbnews", 867808034)</script>
+</ul></div>
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/11/cms15673article.shtml" target="_blank" title="2020年05月09日第1096期">2020年05月09日第1096期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/27/cms15646article.shtml" target="_blank" title="2019年05月24日第1081期">2019年05月24日第1081期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/10/cms15644article.shtml" target="_blank" title="2019年05月10日第1080期">2019年05月10日第1080期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/28/cms15643article.shtml" target="_blank" title="2019年04月26日第1079期">2019年04月26日第1079期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/19/cms15641article.shtml" target="_blank" title="2019年04月19日第1078期">2019年04月19日第1078期</a></li>
+<script>_showDynClickBatch(['dynclicks_u17_70808','dynclicks_u17_70807','dynclicks_u17_70806','dynclicks_u17_70800','dynclicks_u17_70799','dynclicks_u17_63885','dynclicks_u17_63884','dynclicks_u17_63866','dynclicks_u17_62529'],[70808,70807,70806,70800,70799,63885,63884,63866,62529],"wbnews", 867808034)</script>
+</ul></div><!-- 官方微博 -->
+<div class="weibo">
+<ul>
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40203)" target="_blank"></a></li>
+
+
+
+    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40205)" target="_blank"></a></li>
+
+
+</ul></div></div></div>
+<div class="footer">
+<div class="wrapper" style="width:1000px;margin:0px auto;">
+<div class="footer-l fl">
+<p><span>友情链接</span>Links</p>
+<div class="select-menu">
+<div class="select-menu-div"><input class="select-menu-input input2" readonly=""> </div>
+<ul class="select-menu-ul">    <li class="select"><a href="http://www.nwpu.edu.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40190)" target="_blank">西北工业大学</a></li>
+    <li><a href="http://www.miit.gov.cn/newweb/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40198)" target="_blank">工业和信息化部</a></li>
+    <li><a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40199)" target="_blank">教育部</a></li>
+    <li><a href="http://www.univs.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40195)" target="_blank">中国大学生在线</a></li>
+    <li><a href="http://www.xinhuanet.com/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40200)" target="_blank">新华网</a></li>
+    <li><a href="http://www.gmw.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40291)" target="_blank">光明网</a></li>
+    <li><a href="http://www.peopledaily.com.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40201)" target="_blank">人民网</a></li>
+</ul></div></div>
+<div class="footer-m fl" style="position: relative;">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<ul class=" list-paddingleft-2" style="font-size: medium; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: normal; color: rgb(0,0,0); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; margin: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-stroke-width: 0px; font-variant-ligatures: normal; font-variant-caps: normal"><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">友谊校区地址：西安市友谊西路127号&nbsp;&nbsp;&nbsp;&nbsp;邮编:710072</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">长安校区地址：西安市长安区东祥路1号 邮编:710129</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">西北工业大学党委宣传部 @ 版权所有 Copyright 2006-2018</p></li></ul><p></p><a href="http://news.nwpu.edu.cn/info/1214/46843.htm" target="_blank" style="color:#fff;font-size:12px;position: absolute;bottom:9px;right:20px">免责声明</a></div>
+<div class="footer-r fr">
+<ul>    <li><img alt="" src="../../images2018/wxewm.jpg" style="width:111px;height:110px"> 
+<p>官方微信</p></li>
+<li><img alt="" src="../../images2018/wbewm.jpg" style="width:111px;height:110px"> 
+<p>官方微博</p></li>
+
+</ul></div></div></div></div><!-- list-main end --><script src="../../js2018/inner2018.js"></script>
+<script src="../../js2018/slide2018.js"></script><script>
+   $(function(){
+    var speed = 1000;//自定义滚动速度
+             //回到顶部
+             $( ".side-b li:eq(2)").click( function () {
+                 $( "html,body").animate({ "scrollTop" : 0 }, speed);
+                 });
+      $( ".side-m li:eq(0)").hover(function(){
+$(this).find('.bg-erweima').toggle();
+
+                $(this).find('img').toggle();
+             })
+             $( ".side-m li:eq(0)").hover(function(){
+             $('.side-m .bg-erweima').toggle();
+             });
+
+})
+</script>
+
+</body></html>
+
+version: 1.0
+url: https://news.nwpu.edu.cn/info/1002/70871.htm
+date: 2020-06-23 02:26:42
+length: 20165
+
+<html lang="en"><head><title>学校召开“十四五”师资队伍建设规划汇报交流会-视窗-西北工业大学新闻网</title><meta name="keywords" content="视窗-西北工业大学新闻网,学校,召开,十四五,十四,四五,师资队伍,师资,队伍建设,队伍,建设,规划,汇报,交流会,交流,流会">
+<meta name="description" content="西工大新闻网6月19日电（张慧杰 张敏乔）6月15日，学校在东会议室召开第三轮“十四五”师资队伍建设规划汇报交流会。党委书记张炜、校长汪劲松，校领导陈建有、张海兰、侯成义、杨益新、杨晓、王宇波、张建新，有关职能部门负责人，各学院（研究院）院长、党委书记等70余人参加会议。">
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
+<meta charset="UTF-8"><link rel="stylesheet" href="../../css2018/style2018.css"><script src="../../js2018/bdtxk2018.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525b544003070000 -->
+<link rel="stylesheet" type="text/css" href="../../zzzcontent1.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zzzcontent1.jsp',70871,867808034)</script>
+</head>
+<body class="bg" style=""><!-- head start -->
+<div class="head">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<div class="head-l fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="新闻网"><img src="../../images2018/logo.png" width="425" height="63" border="0" alt="新闻网" title="新闻网"></a></div>
+<div class="head-r fr" style="width:530px;">
+<div class="head-r-t"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="../../xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40184)">新闻报道协调单</a>|
+<a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40186)">新闻热线</a>
+</div>
+<div class="head-r-b"><span><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar198820EnDateString;
+
+var c_Calendar198820WeekDayString;
+
+//阴历
+var c_Calendar198820CnDateString;
+//节气
+var c_Calendar198820JQString;
+//年
+var c_Calendar198820YearString;
+//月
+var c_Calendar198820MonthString;
+//日
+var c_Calendar198820DayString;
+//周
+var c_Calendar198820WeekString;
+function RunGLNL198820()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar198820CnDateString=sc.getCnDateString();
+    c_Calendar198820WeekDayString=sc.getCalendarWeekString();
+    c_Calendar198820JQString=sc.getJQString();
+    c_Calendar198820EnDateString=sc.getEnDateString();
+    c_Calendar198820YearString=sc.getYearString();
+    c_Calendar198820MonthString=sc.getMonthString();
+    c_Calendar198820DayString=sc.getDayString();
+    c_Calendar198820WeekString=sc.getWeekString();
+}
+RunGLNL198820();
+document.write('<div id="c_lunar198820"   class="fontstyle198820"  >');       
+document.write(c_Calendar198820EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820CnDateString);
+
+
+document.write("</div>");
+
+</script><div id="c_lunar198820" class="fontstyle198820">2020年6月23日&nbsp;&nbsp;星期二&nbsp;&nbsp;庚子年五月初三</div>
+</span>
+
+
+
+
+
+<form action="../../zzzsearch1.jsp?wbtreeid=1002" method="post" name="a198819a" onsubmit="return subsearchdataa198819a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+<input size="12" name="INTEXT" class="ss" placeholder="请输入关键字" style="height:32px">
+<input type="image" class="btn" src="../../images2018/search.png" align="absmiddle" valign="bottom" style="cursor: hand">
+               
+</form>
+<script>
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+function subsearchdataa198819a()
+{ 
+    if(document.a198819a.INTEXT.value.trim()=="")
+    {
+         alert("请输入查询关键字！");
+         return false;
+    }
+    if(checkDataa198819a(document.a198819a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa198819a(formname)
+    {
+        if(a198819a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a198819a.INTEXT.value;
+                document.a198819a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a198819a.INTEXT2.value = base64.encode(document.a198819a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="nav">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<ul>    <li><a href="../../index.htm" title="首    页">首    页</a></li>
+    <li><a href="../../rdjj.htm" title="热点聚焦">热点聚焦</a></li>
+    <li><a href="../../gdyw.htm" title="工大要闻">工大要闻</a></li>
+    <li><a href="../../xyxw.htm" title="校园动态">校园动态</a></li>
+    <li><a href="../../mtgd.htm" title="媒体工大">媒体工大</a></li>
+    <li><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank" title="视频新闻">视频新闻</a></li>
+</ul></div></div>
+<div class="clear"></div>
+
+<!-- 侧边栏 -->
+<div class="side">
+<ul class="side-t">    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40220)"><p>新闻报道协调单</p></a></li>
+    <li><a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40222)"><p>新闻热线</p></a></li>
+</ul>
+<ul class="side-m">    <li><a href="javascript:void(0)" title="" onclick="_addDynClicks(&quot;wbimage&quot;, 867808034, 41960)" target="_blank"></a><div class="bg-erweima"><img src="../../images2018/wxm.png"></div> </li>
+
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40301)" target="_" blank=""><p style="top:20px">微博</p></a></li>
+</ul>
+<ul class="side-b">
+    <li><a href="#" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40223)"></a></li>
+
+<li><a href="javascript:void(0)"><img src="../../images2018/side5.png"></a>
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div class="bg-erweima"><div id="outputu9" style="width: 80px;height:80px;padding:3px;position:absolute;top:12px;right:52px;display:none;background:#fff"><canvas width="80" height="80"></canvas></div></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu9').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 80,     //设置宽度  
+        height: 80,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+
+
+})
+
+
+</script>
+<script>
+jQuery(function(){
+jQuery('.side li').hover(function(){
+	$(this).find('#outputu9').toggle();
+$(this).find('.bg-erweima').toggle();
+})
+})
+</script> 
+</li><li><a href="#"></a></li></ul></div>
+<!-- list-main start -->
+<div class="list-main">
+<div class="wrapper" style="width:1000px;margin:0px auto;overflow:hidden">
+<div class="fl info-l">
+<div class="h3"><span class="fl">工大要闻</span><span class="fr"><div style="font-size:14px">
+    当前位置: 
+                        <a href="../../index.htm" style="font-size:14px">首    页</a>
+                &gt;&gt;
+                <a href="../../gdyw.htm" style="font-size:14px">工大要闻</a>
+                &gt;&gt;
+                正文
+</div></span></div>
+<div class="artical">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <h5 align="center">学校召开“十四五”师资队伍建设规划汇报交流会</h5>
+<div class="time">
+<span>发布时间：2020-06-19 12:27:12</span>
+<span style="margin-left:10px">作者：张慧杰  张敏乔</span>
+<span style="margin-left:10px">来源：人事处
+     </span>
+<span style="margin-left:10px">已浏览：<script>_showDynClicks("wbnews", 867808034, 70871)</script><span id="dynclicks_wbnews_70871_679" name="dynclicks_wbnews_70871_679">1190</span></span>
+</div>
+    <div class="nr" id="vsb_content_2"><div class="v_news_content">
+<div>
+ <p class="vsbcontent_start"><strong>西工大新闻网6月19日电</strong>（<strong>张慧杰 张敏乔</strong>）6月15日，学校在东会议室召开第三轮“十四五”师资队伍建设规划汇报交流会。党委书记张炜、校长汪劲松，校领导陈建有、张海兰、侯成义、杨益新、杨晓、王宇波、张建新，有关职能部门负责人，各学院（研究院）院长、党委书记等70余人参加会议。会议由副校长侯成义主持。</p>
+ <p>人事处首先介绍了学校“十四五”师资队伍建设规划制定情况和工作开展情况。随后，计算机学院、动力与能源学院、管理学院从师资队伍现状、存在问题、规划制定思路、队伍建设目标、支持保障措施等方面进行了整体汇报；航海学院等单位分别就学术标准修订情况、“全球人才雷达体系”、多元引人和聘用机制等内容进行了重点汇报。</p>
+ <p>与会校领导从师德师风建设、人才培养、团队建设、人才引育、体制机制创新、组织保障等方面对各单位师资队伍建设规划提出了意见和建议。汪劲松强调，各单位要以学科为导向，强化人才培养对师资队伍建设的需求，注意控制规模、提高质量、突出特色；要认真研判拟引进人才的发展潜力，处理好个人和团队的关系，统筹好各支队伍的规模、数量和结构。张炜指出，各单位要坚持问题导向，深入研究并统筹考虑人才培养改革、用人机制完善、基础研究加强、国际合作拓展、配置资源优化等方面的问题，科学制定师资队伍建设规划，实现学校的高质量、内涵式发展。</p>
+ <p>学院师资队伍建设规划工作自2019年9月启动，各单位按照“学科牵引、对标一流”的总体思路，在摸清家底、充分调研的基础上，科学制定规划，创新工作举措。下一阶段，学校将组织各单位进一步优化完善师资队伍建设规划，通过汇聚领军人才、培养学术骨干、建设创新团队等措施加强师资队伍建设，为学校“双一流”建设和“十四五”规划的制定提供有力支撑。</p>
+ <p style="text-align: right;">（审稿：林楠）</p>
+ <p class="vsbcontent_end">&nbsp;</p>
+</div>
+</div></div><div id="div_vote_id"></div>
+    
+</div>
+</form></div><!-- 相关文章 -->
+<div class="xiangguan">
+<div class="h5">相关文章</div>
+<ul>
+
+<span id="relateNewsjs198858js">读取内容中,请等待...</span>
+
+<script language="JavaScript">
+getRelateNewsjs198858js(0);
+function getRelateNewsjs198858js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle198858&viewid=198858&leaderchar=&titlelen=32&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/view/_webprj/zzzcontent1.jsp&columnshow=false&wbnewsid=70871&owner=867808034&limitdays=182&rowcount=5&columnstyle= columnstyle198858 &columnid=-1&uid=u13'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont198858&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle198858&timestylename=timestyle198858";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+		if(ajax.status=='12031')
+		{
+			temp++;
+			if(temp<2)
+			{
+				getRelateNews_ajax(temp);
+			}
+		}
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs198858js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+</ul></div></div>
+<div class="list-r fr">
+<div class="dt">
+<div class="h3">
+<div class="fl">校园动态</div>
+<div class="fr"><a href="../../xyxw.htm">更多+</a></div></div>
+<ul>   <li><a href="../1003/70872.htm" target="_blank" title="校工会举办教代会代表提案征集与撰写培训会">校工会举办教代会代表提案征集与撰写培训会</a></li>
+   <li><a href="../1003/70865.htm" target="_blank" title="财务处召开干部任免宣布会议">财务处召开干部任免宣布会议</a></li>
+   <li><a href="../1003/70863.htm" target="_blank" title="西北工业大学召开党委学生工作部、机电学院经济责任审计进点会">西北工业大学召开党委学生工作部、机电...</a></li>
+   <li><a href="../1003/70862.htm" target="_blank" title="计算机学院赴365所开展科研交流活动">计算机学院赴365所开展科研交流活动</a></li>
+   <li><a href="../1003/70857.htm" target="_blank" title="图书馆组织参加学校“廉洁文化宣传教育月”法规政策联合宣讲活动">图书馆组织参加学校“廉洁文化宣传教育...</a></li>
+<script>_showDynClickBatch(['dynclicks_u14_70872','dynclicks_u14_70865','dynclicks_u14_70863','dynclicks_u14_70862','dynclicks_u14_70857'],[70872,70865,70863,70862,70857],"wbnews", 867808034)</script>
+</ul>
+<ul>   <li><a href="../1003/70846.htm" target="_blank" title="航天学院圆满完成2020年党风廉政知识网上答题活动">航天学院圆满完成2020年党风廉政知识网...</a></li>
+   <li><a href="../1003/70843.htm" target="_blank" title="【自动化学院党建】自动化学院多个支部入选西北工业大学第二批“双创”项目">【自动化学院党建】自动化学院多个支部...</a></li>
+   <li><a href="../1003/70842.htm" target="_blank" title="【自动化学院党建】自动化学院党员活动室入选西北工业大学首批示范性党员活动室">【自动化学院党建】自动化学院党员活动...</a></li>
+   <li><a href="../1003/70841.htm" target="_blank" title="自动化学院开展安全生产大检查">自动化学院开展安全生产大检查</a></li>
+   <li><a href="../1003/70837.htm" target="_blank" title="志愿精神薪火相传——西工大召开第21、22届研支团工作座谈会">志愿精神薪火相传——西工大召开第21、2...</a></li>
+<script>_showDynClickBatch(['dynclicks_u15_70872','dynclicks_u15_70865','dynclicks_u15_70863','dynclicks_u15_70862','dynclicks_u15_70857','dynclicks_u15_70846','dynclicks_u15_70843','dynclicks_u15_70842','dynclicks_u15_70841','dynclicks_u15_70837'],[70872,70865,70863,70862,70857,70846,70843,70842,70841,70837],"wbnews", 867808034)</script>
+</ul></div><!-- 视频新闻 -->
+<div class="news-sp">
+<div class="h3">
+<div class="fl">视频新闻</div>
+<div class="fr"><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank">更多+</a></div></div>
+<div class="pic-list">
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-11/28/cms15664article.shtml" target="_blank" title="2019年11月22日第1092期"><img alt="" src="/__local/E/B2/C5/2F463E5331BEC02CBA60CB18426_7F8D2323_81989.png"> <span></span>2019年11月22日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/10/cms15665article.shtml" target="_blank" title="2019年12月06日第1093期"><img alt="" src="/__local/E/09/B5/DDAC3098E599D0AA93353C2F2A3_4FB1F270_887B3.png"> <span></span>2019年12月06日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/20/cms15667article.shtml" target="_blank" title="2019年12月20日第1094期"><img alt="" src="/__local/6/F0/B0/01B8D684A7EF2151F745FC8C0B0_56E7C6D0_5E271.png"> <span></span>2019年12月20日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/25/cms15674article.shtml" target="_blank" title="2020年01月10日第1095期"><img alt="" src="/__local/B/A0/EC/8F3E4EB354D46C864EA3E147DEE_DC641DDE_79E30.png"> <span></span>2020年01月10日第109...</a></li>
+<script>_showDynClickBatch(['dynclicks_u16_70808','dynclicks_u16_70807','dynclicks_u16_70806','dynclicks_u16_70800'],[70808,70807,70806,70800],"wbnews", 867808034)</script>
+</ul></div>
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/11/cms15673article.shtml" target="_blank" title="2020年05月09日第1096期">2020年05月09日第1096期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/27/cms15646article.shtml" target="_blank" title="2019年05月24日第1081期">2019年05月24日第1081期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/10/cms15644article.shtml" target="_blank" title="2019年05月10日第1080期">2019年05月10日第1080期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/28/cms15643article.shtml" target="_blank" title="2019年04月26日第1079期">2019年04月26日第1079期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/19/cms15641article.shtml" target="_blank" title="2019年04月19日第1078期">2019年04月19日第1078期</a></li>
+<script>_showDynClickBatch(['dynclicks_u17_70808','dynclicks_u17_70807','dynclicks_u17_70806','dynclicks_u17_70800','dynclicks_u17_70799','dynclicks_u17_63885','dynclicks_u17_63884','dynclicks_u17_63866','dynclicks_u17_62529'],[70808,70807,70806,70800,70799,63885,63884,63866,62529],"wbnews", 867808034)</script>
+</ul></div><!-- 官方微博 -->
+<div class="weibo">
+<ul>
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40203)" target="_blank"></a></li>
+
+
+
+    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40205)" target="_blank"></a></li>
+
+
+</ul></div></div></div>
+<div class="footer">
+<div class="wrapper" style="width:1000px;margin:0px auto;">
+<div class="footer-l fl">
+<p><span>友情链接</span>Links</p>
+<div class="select-menu">
+<div class="select-menu-div"><input class="select-menu-input input2" readonly=""> </div>
+<ul class="select-menu-ul">    <li class="select"><a href="http://www.nwpu.edu.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40190)" target="_blank">西北工业大学</a></li>
+    <li><a href="http://www.miit.gov.cn/newweb/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40198)" target="_blank">工业和信息化部</a></li>
+    <li><a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40199)" target="_blank">教育部</a></li>
+    <li><a href="http://www.univs.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40195)" target="_blank">中国大学生在线</a></li>
+    <li><a href="http://www.xinhuanet.com/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40200)" target="_blank">新华网</a></li>
+    <li><a href="http://www.gmw.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40291)" target="_blank">光明网</a></li>
+    <li><a href="http://www.peopledaily.com.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40201)" target="_blank">人民网</a></li>
+</ul></div></div>
+<div class="footer-m fl" style="position: relative;">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<ul class=" list-paddingleft-2" style="font-size: medium; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: normal; color: rgb(0,0,0); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; margin: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-stroke-width: 0px; font-variant-ligatures: normal; font-variant-caps: normal"><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">友谊校区地址：西安市友谊西路127号&nbsp;&nbsp;&nbsp;&nbsp;邮编:710072</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">长安校区地址：西安市长安区东祥路1号 邮编:710129</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">西北工业大学党委宣传部 @ 版权所有 Copyright 2006-2018</p></li></ul><p></p><a href="http://news.nwpu.edu.cn/info/1214/46843.htm" target="_blank" style="color:#fff;font-size:12px;position: absolute;bottom:9px;right:20px">免责声明</a></div>
+<div class="footer-r fr">
+<ul>    <li><img alt="" src="../../images2018/wxewm.jpg" style="width:111px;height:110px"> 
+<p>官方微信</p></li>
+<li><img alt="" src="../../images2018/wbewm.jpg" style="width:111px;height:110px"> 
+<p>官方微博</p></li>
+
+</ul></div></div></div></div><!-- list-main end --><script src="../../js2018/inner2018.js"></script>
+<script src="../../js2018/slide2018.js"></script><script>
+   $(function(){
+    var speed = 1000;//自定义滚动速度
+             //回到顶部
+             $( ".side-b li:eq(2)").click( function () {
+                 $( "html,body").animate({ "scrollTop" : 0 }, speed);
+                 });
+      $( ".side-m li:eq(0)").hover(function(){
+$(this).find('.bg-erweima').toggle();
+
+                $(this).find('img').toggle();
+             })
+             $( ".side-m li:eq(0)").hover(function(){
+             $('.side-m .bg-erweima').toggle();
+             });
+
+})
+</script>
+
+</body></html>
+
+version: 1.0
+url: https://news.nwpu.edu.cn/info/1002/70869.htm
+date: 2020-06-23 02:26:42
+length: 21704
+
+<html lang="en"><head><title>校领导参加材料学院学生党支部主题党日活动-视窗-西北工业大学新闻网</title><meta name="keywords" content="视窗-西北工业大学新闻网,校领导,参加,材料学院,学生,党支部,主题,活动">
+<meta name="description" content="西工大新闻网6月18日电（任聪聪 张衡）​为了增强党员爱国奉献、攻坚克难的精神，激发党员的家国情怀，提高党支部集体的凝聚力，6月18日上午10点30分，材料学院2018级硕士生党支部组织开展主题党日活动，学习“习近平总书记致哈尔滨工业大学建校100周年的贺信”以及“工信部苗圩部长在哈尔滨工业大学建校100 周年纪念大会上的讲话”等文件以及视频资料。党委常委、常务副校长黄维、材料学院党委副书记杨妮花、材料学院团委书记柯伟与材料学院2018级硕士生第六党支部全体党员共同参加了此次会议，会议由支部书记陈冉主持。">
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
+<meta charset="UTF-8"><link rel="stylesheet" href="../../css2018/style2018.css"><script src="../../js2018/bdtxk2018.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525b544003070000 -->
+<link rel="stylesheet" type="text/css" href="../../zzzcontent1.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zzzcontent1.jsp',70869,867808034)</script>
+</head>
+<body class="bg" style=""><!-- head start -->
+<div class="head">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<div class="head-l fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="新闻网"><img src="../../images2018/logo.png" width="425" height="63" border="0" alt="新闻网" title="新闻网"></a></div>
+<div class="head-r fr" style="width:530px;">
+<div class="head-r-t"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="../../xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40184)">新闻报道协调单</a>|
+<a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40186)">新闻热线</a>
+</div>
+<div class="head-r-b"><span><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar198820EnDateString;
+
+var c_Calendar198820WeekDayString;
+
+//阴历
+var c_Calendar198820CnDateString;
+//节气
+var c_Calendar198820JQString;
+//年
+var c_Calendar198820YearString;
+//月
+var c_Calendar198820MonthString;
+//日
+var c_Calendar198820DayString;
+//周
+var c_Calendar198820WeekString;
+function RunGLNL198820()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar198820CnDateString=sc.getCnDateString();
+    c_Calendar198820WeekDayString=sc.getCalendarWeekString();
+    c_Calendar198820JQString=sc.getJQString();
+    c_Calendar198820EnDateString=sc.getEnDateString();
+    c_Calendar198820YearString=sc.getYearString();
+    c_Calendar198820MonthString=sc.getMonthString();
+    c_Calendar198820DayString=sc.getDayString();
+    c_Calendar198820WeekString=sc.getWeekString();
+}
+RunGLNL198820();
+document.write('<div id="c_lunar198820"   class="fontstyle198820"  >');       
+document.write(c_Calendar198820EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820CnDateString);
+
+
+document.write("</div>");
+
+</script><div id="c_lunar198820" class="fontstyle198820">2020年6月23日&nbsp;&nbsp;星期二&nbsp;&nbsp;庚子年五月初三</div>
+</span>
+
+
+
+
+
+<form action="../../zzzsearch1.jsp?wbtreeid=1002" method="post" name="a198819a" onsubmit="return subsearchdataa198819a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+<input size="12" name="INTEXT" class="ss" placeholder="请输入关键字" style="height:32px">
+<input type="image" class="btn" src="../../images2018/search.png" align="absmiddle" valign="bottom" style="cursor: hand">
+               
+</form>
+<script>
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+function subsearchdataa198819a()
+{ 
+    if(document.a198819a.INTEXT.value.trim()=="")
+    {
+         alert("请输入查询关键字！");
+         return false;
+    }
+    if(checkDataa198819a(document.a198819a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa198819a(formname)
+    {
+        if(a198819a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a198819a.INTEXT.value;
+                document.a198819a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a198819a.INTEXT2.value = base64.encode(document.a198819a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="nav">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<ul>    <li><a href="../../index.htm" title="首    页">首    页</a></li>
+    <li><a href="../../rdjj.htm" title="热点聚焦">热点聚焦</a></li>
+    <li><a href="../../gdyw.htm" title="工大要闻">工大要闻</a></li>
+    <li><a href="../../xyxw.htm" title="校园动态">校园动态</a></li>
+    <li><a href="../../mtgd.htm" title="媒体工大">媒体工大</a></li>
+    <li><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank" title="视频新闻">视频新闻</a></li>
+</ul></div></div>
+<div class="clear"></div>
+
+<!-- 侧边栏 -->
+<div class="side">
+<ul class="side-t">    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40220)"><p>新闻报道协调单</p></a></li>
+    <li><a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40222)"><p>新闻热线</p></a></li>
+</ul>
+<ul class="side-m">    <li><a href="javascript:void(0)" title="" onclick="_addDynClicks(&quot;wbimage&quot;, 867808034, 41960)" target="_blank"></a><div class="bg-erweima"><img src="../../images2018/wxm.png"></div> </li>
+
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40301)" target="_" blank=""><p style="top:20px">微博</p></a></li>
+</ul>
+<ul class="side-b">
+    <li><a href="#" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40223)"></a></li>
+
+<li><a href="javascript:void(0)"><img src="../../images2018/side5.png"></a>
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div class="bg-erweima"><div id="outputu9" style="width: 80px;height:80px;padding:3px;position:absolute;top:12px;right:52px;display:none;background:#fff"><canvas width="80" height="80"></canvas></div></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu9').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 80,     //设置宽度  
+        height: 80,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+
+
+})
+
+
+</script>
+<script>
+jQuery(function(){
+jQuery('.side li').hover(function(){
+	$(this).find('#outputu9').toggle();
+$(this).find('.bg-erweima').toggle();
+})
+})
+</script> 
+</li><li><a href="#"></a></li></ul></div>
+<!-- list-main start -->
+<div class="list-main">
+<div class="wrapper" style="width:1000px;margin:0px auto;overflow:hidden">
+<div class="fl info-l">
+<div class="h3"><span class="fl">工大要闻</span><span class="fr"><div style="font-size:14px">
+    当前位置: 
+                        <a href="../../index.htm" style="font-size:14px">首    页</a>
+                &gt;&gt;
+                <a href="../../gdyw.htm" style="font-size:14px">工大要闻</a>
+                &gt;&gt;
+                正文
+</div></span></div>
+<div class="artical">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><link href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <h5 align="center">校领导参加材料学院学生党支部主题党日活动</h5>
+<div class="time">
+<span>发布时间：2020-06-18 22:34:42</span>
+<span style="margin-left:10px">作者：任聪聪 张衡</span>
+<span style="margin-left:10px">来源：材料学院
+     </span>
+<span style="margin-left:10px">已浏览：<script>_showDynClicks("wbnews", 867808034, 70869)</script><span id="dynclicks_wbnews_70869_15" name="dynclicks_wbnews_70869_15">149</span></span>
+</div>
+    <div class="nr" id="vsb_content_2"><div class="v_news_content">
+<p class="vsbcontent_start"><strong>西工大新闻网</strong><strong>6</strong><strong>月</strong><strong>18</strong><strong>日电</strong>（<strong>任聪聪 张衡</strong>）为了增强党员爱国奉献、攻坚克难的精神，激发党员的家国情怀，提高党支部集体的凝聚力，6月18日上午10点30分，材料学院2018级硕士生党支部组织开展主题党日活动，学习“习近平总书记致哈尔滨工业大学建校100周年的贺信”以及“工信部苗圩部长在哈尔滨工业大学建校100周年纪念大会上的讲话”等文件以及视频资料。党委常委、常务副校长黄维、材料学院党委副书记杨妮花、材料学院团委书记柯伟与材料学院2018级硕士生第六党支部全体党员共同参加了此次会议，会议由支部书记陈冉主持。</p>
+<p>首先，支部书记陈冉带领大家学习了习近平总书记对哈工大建校100周年贺信、工业和信息化部部长苗圩在哈工大建校100周年纪念大会上的讲话，并通过视频形式观看学习了哈工大建校100周年纪念大会。</p>
+<p>随后，陈冉同志从人才培养、科学研究等方面介绍了哈工大与西工大之间的交流合作，全体党员通过观看两所高校宣传片的形式对两所学校的历史底蕴发展和国防贡献进行了深入了解。</p>
+<p class="vsbcontent_img"><img width="600" src="/__local/4/F3/E7/604750FC16EEA413B1E2C4BC578_C5579C09_F61A5.png" vwidth="600" vheight="" vurl="/_vsl/4F3E7604750FC16EEA413B1E2C4BC578/C5579C09/F61A5" vsbhref="vurl" orisrc="/__local/4/F3/E7/604750FC16EEA413B1E2C4BC578_C5579C09_F61A5.png" class="img_vsb_content"></p>
+<p>杜志楠、宫俊杰等七名党员分别从自己的视角并结合所学内容分享了自己的学习体会，大家结合自身学习科研实际表达了对学校乃至国家的期盼与祝福，充分体现了工大学子积极向上的态度以及对国家发展的关心。</p>
+<p>结合支部学习内容与自身的奋斗故事，黄维常务副校长与全体党员同志进行了分享交流，指出奋斗的青春最美丽，同学们应不断攻坚克难，在祖国最需要的地方建功立业。</p>
+<p class="vsbcontent_img"><img width="600" src="/__local/4/3F/9B/0DA33D6BAA91F9D3130E7CC86FA_6581996B_B638D.png" vwidth="600" vheight="" vurl="/_vsl/43F9B0DA33D6BAA91F9D3130E7CC86FA/6581996B/B638D" vsbhref="vurl" orisrc="/__local/4/3F/9B/0DA33D6BAA91F9D3130E7CC86FA_6581996B_B638D.png" class="img_vsb_content"></p>
+<p>黄维常务副校长对支部活动中同学们的积极态度、热烈氛围及相关建议进行了肯定，并对同学们提出三点希望：一是希望同学们坚守初心，爱国奋斗，努力投身祖国国防科技事业。作为西工大学子、硕士生党员，大家应该牢记入党初心，秉承“公诚勇毅”的校训、发扬“三实一新”的校风，在学习工作中传承“古路坝精神”，续写“三航精神”新篇章，为实现强国梦贡献西工大智慧。二是希望同学们坚定信心，砥砺奋斗，努力抒写属于自己的青春故事。当前正值学校“双一流”建设的关键时刻，作为国防院校的优秀学子，同学们要始终践行至诚报国使命，发扬不怕苦不怕累的精神，为实现“两个一百年”奋斗目标和中华民族伟大复兴的中国梦贡献自己的一份力量。三是希望同学们立足科技前沿，不断求索真理，勇攀科学技术高峰。要始终牢记习近平总书记的殷殷嘱托，服务于国家进步和民族发展，努力解决各领域的“卡脖子”问题，各位同学一定要扎实学习好专业知识，直面困难、潜心科研，以青春报国、以科技强国。最后，黄维常务副校长表达了疫情结束后与同学们相约校园，在线下进一步开展交流的期待以及对大家美好的祝福。</p>
+<p>今天的支部会议在同学们之中引起了热烈反响，大家一致认为，此次活动的成功举行将有利于党员同志们进一步提升自我，拓宽视野，实现理论学习有收获，思想政治受洗礼。黄校长以一名师长的身份，为大家分享自己的成长故事，激励着大家更加坚定自己科技报国的赤子之心，永葆初心，不负韶华，勇担使命，砥砺前行。最后，同学们纷纷表示，在未来的学习与工作中，会勇担时代责任，主动将个人理想融入到伟大“中国梦”的实践之中，奋发作为，迎难而上，为学院与学校的建设作出卓越贡献，为中华民族伟大复兴而不懈奋斗！</p>
+<p class="vsbcontent_end" style="text-align: right;">（审稿：刘伟）</p>
+</div></div><div id="div_vote_id"></div>
+    
+</div>
+</form></div><!-- 相关文章 -->
+<div class="xiangguan">
+<div class="h5">相关文章</div>
+<ul>
+
+<span id="relateNewsjs198858js">读取内容中,请等待...</span>
+
+<script language="JavaScript">
+getRelateNewsjs198858js(0);
+function getRelateNewsjs198858js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle198858&viewid=198858&leaderchar=&titlelen=32&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/view/_webprj/zzzcontent1.jsp&columnshow=false&wbnewsid=70869&owner=867808034&limitdays=182&rowcount=5&columnstyle= columnstyle198858 &columnid=-1&uid=u13'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont198858&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle198858&timestylename=timestyle198858";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+		if(ajax.status=='12031')
+		{
+			temp++;
+			if(temp<2)
+			{
+				getRelateNews_ajax(temp);
+			}
+		}
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs198858js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+</ul></div></div>
+<div class="list-r fr">
+<div class="dt">
+<div class="h3">
+<div class="fl">校园动态</div>
+<div class="fr"><a href="../../xyxw.htm">更多+</a></div></div>
+<ul>   <li><a href="../1003/70865.htm" target="_blank" title="财务处召开干部任免宣布会议">财务处召开干部任免宣布会议</a></li>
+   <li><a href="../1003/70863.htm" target="_blank" title="西北工业大学召开党委学生工作部、机电学院经济责任审计进点会">西北工业大学召开党委学生工作部、机电...</a></li>
+   <li><a href="../1003/70862.htm" target="_blank" title="计算机学院赴365所开展科研交流活动">计算机学院赴365所开展科研交流活动</a></li>
+   <li><a href="../1003/70857.htm" target="_blank" title="图书馆组织参加学校“廉洁文化宣传教育月”法规政策联合宣讲活动">图书馆组织参加学校“廉洁文化宣传教育...</a></li>
+   <li><a href="../1003/70846.htm" target="_blank" title="航天学院圆满完成2020年党风廉政知识网上答题活动">航天学院圆满完成2020年党风廉政知识网...</a></li>
+<script>_showDynClickBatch(['dynclicks_u14_70865','dynclicks_u14_70863','dynclicks_u14_70862','dynclicks_u14_70857','dynclicks_u14_70846'],[70865,70863,70862,70857,70846],"wbnews", 867808034)</script>
+</ul>
+<ul>   <li><a href="../1003/70843.htm" target="_blank" title="【自动化学院党建】自动化学院多个支部入选西北工业大学第二批“双创”项目">【自动化学院党建】自动化学院多个支部...</a></li>
+   <li><a href="../1003/70842.htm" target="_blank" title="【自动化学院党建】自动化学院党员活动室入选西北工业大学首批示范性党员活动室">【自动化学院党建】自动化学院党员活动...</a></li>
+   <li><a href="../1003/70841.htm" target="_blank" title="自动化学院开展安全生产大检查">自动化学院开展安全生产大检查</a></li>
+   <li><a href="../1003/70837.htm" target="_blank" title="志愿精神薪火相传——西工大召开第21、22届研支团工作座谈会">志愿精神薪火相传——西工大召开第21、2...</a></li>
+   <li><a href="../1003/70836.htm" target="_blank" title="计算机学院专业召开专业宣讲会">计算机学院专业召开专业宣讲会</a></li>
+<script>_showDynClickBatch(['dynclicks_u15_70865','dynclicks_u15_70863','dynclicks_u15_70862','dynclicks_u15_70857','dynclicks_u15_70846','dynclicks_u15_70843','dynclicks_u15_70842','dynclicks_u15_70841','dynclicks_u15_70837','dynclicks_u15_70836'],[70865,70863,70862,70857,70846,70843,70842,70841,70837,70836],"wbnews", 867808034)</script>
+</ul></div><!-- 视频新闻 -->
+<div class="news-sp">
+<div class="h3">
+<div class="fl">视频新闻</div>
+<div class="fr"><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank">更多+</a></div></div>
+<div class="pic-list">
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-11/28/cms15664article.shtml" target="_blank" title="2019年11月22日第1092期"><img alt="" src="/__local/E/B2/C5/2F463E5331BEC02CBA60CB18426_7F8D2323_81989.png"> <span></span>2019年11月22日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/10/cms15665article.shtml" target="_blank" title="2019年12月06日第1093期"><img alt="" src="/__local/E/09/B5/DDAC3098E599D0AA93353C2F2A3_4FB1F270_887B3.png"> <span></span>2019年12月06日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/20/cms15667article.shtml" target="_blank" title="2019年12月20日第1094期"><img alt="" src="/__local/6/F0/B0/01B8D684A7EF2151F745FC8C0B0_56E7C6D0_5E271.png"> <span></span>2019年12月20日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/25/cms15674article.shtml" target="_blank" title="2020年01月10日第1095期"><img alt="" src="/__local/B/A0/EC/8F3E4EB354D46C864EA3E147DEE_DC641DDE_79E30.png"> <span></span>2020年01月10日第109...</a></li>
+<script>_showDynClickBatch(['dynclicks_u16_70808','dynclicks_u16_70807','dynclicks_u16_70806','dynclicks_u16_70800'],[70808,70807,70806,70800],"wbnews", 867808034)</script>
+</ul></div>
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/11/cms15673article.shtml" target="_blank" title="2020年05月09日第1096期">2020年05月09日第1096期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/27/cms15646article.shtml" target="_blank" title="2019年05月24日第1081期">2019年05月24日第1081期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/10/cms15644article.shtml" target="_blank" title="2019年05月10日第1080期">2019年05月10日第1080期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/28/cms15643article.shtml" target="_blank" title="2019年04月26日第1079期">2019年04月26日第1079期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/19/cms15641article.shtml" target="_blank" title="2019年04月19日第1078期">2019年04月19日第1078期</a></li>
+<script>_showDynClickBatch(['dynclicks_u17_70808','dynclicks_u17_70807','dynclicks_u17_70806','dynclicks_u17_70800','dynclicks_u17_70799','dynclicks_u17_63885','dynclicks_u17_63884','dynclicks_u17_63866','dynclicks_u17_62529'],[70808,70807,70806,70800,70799,63885,63884,63866,62529],"wbnews", 867808034)</script>
+</ul></div><!-- 官方微博 -->
+<div class="weibo">
+<ul>
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40203)" target="_blank"></a></li>
+
+
+
+    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40205)" target="_blank"></a></li>
+
+
+</ul></div></div></div>
+<div class="footer">
+<div class="wrapper" style="width:1000px;margin:0px auto;">
+<div class="footer-l fl">
+<p><span>友情链接</span>Links</p>
+<div class="select-menu">
+<div class="select-menu-div"><input class="select-menu-input input2" readonly=""> </div>
+<ul class="select-menu-ul">    <li class="select"><a href="http://www.nwpu.edu.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40190)" target="_blank">西北工业大学</a></li>
+    <li><a href="http://www.miit.gov.cn/newweb/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40198)" target="_blank">工业和信息化部</a></li>
+    <li><a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40199)" target="_blank">教育部</a></li>
+    <li><a href="http://www.univs.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40195)" target="_blank">中国大学生在线</a></li>
+    <li><a href="http://www.xinhuanet.com/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40200)" target="_blank">新华网</a></li>
+    <li><a href="http://www.gmw.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40291)" target="_blank">光明网</a></li>
+    <li><a href="http://www.peopledaily.com.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40201)" target="_blank">人民网</a></li>
+</ul></div></div>
+<div class="footer-m fl" style="position: relative;">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<ul class=" list-paddingleft-2" style="font-size: medium; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: normal; color: rgb(0,0,0); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; margin: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-stroke-width: 0px; font-variant-ligatures: normal; font-variant-caps: normal"><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">友谊校区地址：西安市友谊西路127号&nbsp;&nbsp;&nbsp;&nbsp;邮编:710072</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">长安校区地址：西安市长安区东祥路1号 邮编:710129</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">西北工业大学党委宣传部 @ 版权所有 Copyright 2006-2018</p></li></ul><p></p><a href="http://news.nwpu.edu.cn/info/1214/46843.htm" target="_blank" style="color:#fff;font-size:12px;position: absolute;bottom:9px;right:20px">免责声明</a></div>
+<div class="footer-r fr">
+<ul>    <li><img alt="" src="../../images2018/wxewm.jpg" style="width:111px;height:110px"> 
+<p>官方微信</p></li>
+<li><img alt="" src="../../images2018/wbewm.jpg" style="width:111px;height:110px"> 
+<p>官方微博</p></li>
+
+</ul></div></div></div></div><!-- list-main end --><script src="../../js2018/inner2018.js"></script>
+<script src="../../js2018/slide2018.js"></script><script>
+   $(function(){
+    var speed = 1000;//自定义滚动速度
+             //回到顶部
+             $( ".side-b li:eq(2)").click( function () {
+                 $( "html,body").animate({ "scrollTop" : 0 }, speed);
+                 });
+      $( ".side-m li:eq(0)").hover(function(){
+$(this).find('.bg-erweima').toggle();
+
+                $(this).find('img').toggle();
+             })
+             $( ".side-m li:eq(0)").hover(function(){
+             $('.side-m .bg-erweima').toggle();
+             });
+
+})
+</script>
+
+</body></html>
+
+version: 1.0
+url: https://news.nwpu.edu.cn/info/1002/70870.htm
+date: 2020-06-23 02:26:42
+length: 21298
+
+<html lang="en"><head><title>学校举办二级单位办公室主任和组织员能力提升培训班、翱翔青年干部培训班专题培训-视窗-西北工业大学新闻网</title><meta name="keywords" content="视窗-西北工业大学新闻网,学校,举办,二级单位,办公室主任,组织员,能力提升,培训班,翱翔青年干部,培训班,专题培训">
+<meta name="description" content="西工大新闻网6月18日电（兰志峰 胡亚杰）6月17日下午，学校二级单位办公室主任和组织员能力提升培训班、翱翔青年干部培训班的第五次专题培训在友谊校区国际会议中心第五会议室举行。各学院和职能部门的办公室负责同志,基层党委、党总支的组织员,翱翔青年干部培训班学员共180余人（含异地参会人员）通过现场和网络视频参会。学校党委常委、党委组织部部长杨晓、学校办公室副主任李晗作专题报告，机关党委副书记邱若娟参加此次专题培训。专题培训由党校副校长兼党委组织部副部长王玉玲主持。">
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
+<meta charset="UTF-8"><link rel="stylesheet" href="../../css2018/style2018.css"><script src="../../js2018/bdtxk2018.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525b544003070000 -->
+<link rel="stylesheet" type="text/css" href="../../zzzcontent1.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zzzcontent1.jsp',70870,867808034)</script>
+</head>
+<body class="bg" style=""><!-- head start -->
+<div class="head">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<div class="head-l fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="新闻网"><img src="../../images2018/logo.png" width="425" height="63" border="0" alt="新闻网" title="新闻网"></a></div>
+<div class="head-r fr" style="width:530px;">
+<div class="head-r-t"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="../../xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40184)">新闻报道协调单</a>|
+<a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40186)">新闻热线</a>
+</div>
+<div class="head-r-b"><span><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar198820EnDateString;
+
+var c_Calendar198820WeekDayString;
+
+//阴历
+var c_Calendar198820CnDateString;
+//节气
+var c_Calendar198820JQString;
+//年
+var c_Calendar198820YearString;
+//月
+var c_Calendar198820MonthString;
+//日
+var c_Calendar198820DayString;
+//周
+var c_Calendar198820WeekString;
+function RunGLNL198820()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar198820CnDateString=sc.getCnDateString();
+    c_Calendar198820WeekDayString=sc.getCalendarWeekString();
+    c_Calendar198820JQString=sc.getJQString();
+    c_Calendar198820EnDateString=sc.getEnDateString();
+    c_Calendar198820YearString=sc.getYearString();
+    c_Calendar198820MonthString=sc.getMonthString();
+    c_Calendar198820DayString=sc.getDayString();
+    c_Calendar198820WeekString=sc.getWeekString();
+}
+RunGLNL198820();
+document.write('<div id="c_lunar198820"   class="fontstyle198820"  >');       
+document.write(c_Calendar198820EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820CnDateString);
+
+
+document.write("</div>");
+
+</script><div id="c_lunar198820" class="fontstyle198820">2020年6月23日&nbsp;&nbsp;星期二&nbsp;&nbsp;庚子年五月初三</div>
+</span>
+
+
+
+
+
+<form action="../../zzzsearch1.jsp?wbtreeid=1002" method="post" name="a198819a" onsubmit="return subsearchdataa198819a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+<input size="12" name="INTEXT" class="ss" placeholder="请输入关键字" style="height:32px">
+<input type="image" class="btn" src="../../images2018/search.png" align="absmiddle" valign="bottom" style="cursor: hand">
+               
+</form>
+<script>
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+function subsearchdataa198819a()
+{ 
+    if(document.a198819a.INTEXT.value.trim()=="")
+    {
+         alert("请输入查询关键字！");
+         return false;
+    }
+    if(checkDataa198819a(document.a198819a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa198819a(formname)
+    {
+        if(a198819a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a198819a.INTEXT.value;
+                document.a198819a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a198819a.INTEXT2.value = base64.encode(document.a198819a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="nav">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<ul>    <li><a href="../../index.htm" title="首    页">首    页</a></li>
+    <li><a href="../../rdjj.htm" title="热点聚焦">热点聚焦</a></li>
+    <li><a href="../../gdyw.htm" title="工大要闻">工大要闻</a></li>
+    <li><a href="../../xyxw.htm" title="校园动态">校园动态</a></li>
+    <li><a href="../../mtgd.htm" title="媒体工大">媒体工大</a></li>
+    <li><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank" title="视频新闻">视频新闻</a></li>
+</ul></div></div>
+<div class="clear"></div>
+
+<!-- 侧边栏 -->
+<div class="side">
+<ul class="side-t">    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40220)"><p>新闻报道协调单</p></a></li>
+    <li><a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40222)"><p>新闻热线</p></a></li>
+</ul>
+<ul class="side-m">    <li><a href="javascript:void(0)" title="" onclick="_addDynClicks(&quot;wbimage&quot;, 867808034, 41960)" target="_blank"></a><div class="bg-erweima"><img src="../../images2018/wxm.png"></div> </li>
+
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40301)" target="_" blank=""><p style="top:20px">微博</p></a></li>
+</ul>
+<ul class="side-b">
+    <li><a href="#" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40223)"></a></li>
+
+<li><a href="javascript:void(0)"><img src="../../images2018/side5.png"></a>
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div class="bg-erweima"><div id="outputu9" style="width: 80px;height:80px;padding:3px;position:absolute;top:12px;right:52px;display:none;background:#fff"><canvas width="80" height="80"></canvas></div></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu9').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 80,     //设置宽度  
+        height: 80,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+
+
+})
+
+
+</script>
+<script>
+jQuery(function(){
+jQuery('.side li').hover(function(){
+	$(this).find('#outputu9').toggle();
+$(this).find('.bg-erweima').toggle();
+})
+})
+</script> 
+</li><li><a href="#"></a></li></ul></div>
+<!-- list-main start -->
+<div class="list-main">
+<div class="wrapper" style="width:1000px;margin:0px auto;overflow:hidden">
+<div class="fl info-l">
+<div class="h3"><span class="fl">工大要闻</span><span class="fr"><div style="font-size:14px">
+    当前位置: 
+                        <a href="../../index.htm" style="font-size:14px">首    页</a>
+                &gt;&gt;
+                <a href="../../gdyw.htm" style="font-size:14px">工大要闻</a>
+                &gt;&gt;
+                正文
+</div></span></div>
+<div class="artical">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><link href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <h5 align="center">学校举办二级单位办公室主任和组织员能力提升培训班、翱翔青年干部培训班专题培训</h5>
+<div class="time">
+<span>发布时间：2020-06-18 22:29:11</span>
+<span style="margin-left:10px">作者：兰志峰 胡亚杰</span>
+<span style="margin-left:10px">来源：党委组织部
+     </span>
+<span style="margin-left:10px">已浏览：<script>_showDynClicks("wbnews", 867808034, 70870)</script><span id="dynclicks_wbnews_70870_219" name="dynclicks_wbnews_70870_219">123</span></span>
+</div>
+    <div class="nr" id="vsb_content_2"><div class="v_news_content">
+<p class="vsbcontent_start"><strong>西工大新闻网</strong><strong>6</strong><strong>月</strong><strong>18</strong><strong>日电</strong>（<strong>兰志峰 胡亚杰</strong>）6月17日下午，学校二级单位办公室主任和组织员能力提升培训班、翱翔青年干部培训班的第五次专题培训在友谊校区国际会议中心第五会议室举行。各学院和职能部门的办公室负责同志,基层党委、党总支的组织员,翱翔青年干部培训班学员共180余人（含异地参会人员）通过现场和网络视频参会。学校党委常委、党委宣传部部长杨晓、学校办公室副主任李晗作专题报告，机关党委副书记邱若娟参加此次专题培训。专题培训由党校副校长兼党委组织部副部长王玉玲主持。</p>
+<p class="vsbcontent_img"><img width="600" src="/__local/9/11/99/DC88F9D5D2B23331C9A50028BFE_18954141_C201C.jpg" vsbhref="vurl" vurl="/_vsl/91199DC88F9D5D2B23331C9A50028BFE/18954141/C201C" vheight="" vwidth="600" orisrc="/__local/9/11/99/DC88F9D5D2B23331C9A50028BFE_18954141_C201C.jpg" class="img_vsb_content"></p>
+<p class="vsbcontent_img"><img width="600" src="/__local/0/CF/77/A1B06A5AA96121EF2521AB879D1_5C03CE61_C61DF.jpg" vsbhref="vurl" vurl="/_vsl/0CF77A1B06A5AA96121EF2521AB879D1/5C03CE61/C61DF" vheight="" vwidth="600" orisrc="/__local/0/CF/77/A1B06A5AA96121EF2521AB879D1_5C03CE61_C61DF.jpg" class="img_vsb_content"></p>
+<p>杨晓常委以学习贯彻习近平新时代中国特色社会主义思想为主线，将中国传统文化和西方科学理论有效融合，系统阐述了高校干部素质、能力的结构及其提升、发展的方式方法，介绍了领导力基础理论。同时，杨晓常委还就做好学校宣传思想工作的重要意义和如何做好宣传思想工作进行了讲解。</p>
+<p class="vsbcontent_img"><img width="600" src="/__local/8/FF/83/168F734F4ED285E5AD2F59242BC_89A0CA9D_BDB3E.jpg" vsbhref="vurl" vurl="/_vsl/8FF83168F734F4ED285E5AD2F59242BC/89A0CA9D/BDB3E" vheight="" vwidth="600" orisrc="/__local/8/FF/83/168F734F4ED285E5AD2F59242BC_89A0CA9D_BDB3E.jpg" class="img_vsb_content"></p>
+<p>李晗副主任以《泛信息化二三事与OA系统》为题，分享了信息化建设中遇到的问题和学校OA系统的建设过程，并以武侠七式行走江湖的方式生动的介绍了OA系统的七大功能和OA系统最基本的操作，提升了大家对信息化办公的认知，让大家对OA系统有了更深入的了解。</p>
+<p>参加培训的老师纷纷表示，通过本次培训进一步加强了对宣传工作和信息化建设重要性的认识，更加深刻认识到应进一步加强学习，不断提升个人素质和能力。</p>
+<p class="vsbcontent_end" style="text-align: right;">（审稿：王玉玲 邱若娟）</p>
+</div></div><div id="div_vote_id"></div>
+    
+</div>
+</form></div><!-- 相关文章 -->
+<div class="xiangguan">
+<div class="h5">相关文章</div>
+<ul>
+
+<span id="relateNewsjs198858js">读取内容中,请等待...</span>
+
+<script language="JavaScript">
+getRelateNewsjs198858js(0);
+function getRelateNewsjs198858js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle198858&viewid=198858&leaderchar=&titlelen=32&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/view/_webprj/zzzcontent1.jsp&columnshow=false&wbnewsid=70870&owner=867808034&limitdays=182&rowcount=5&columnstyle= columnstyle198858 &columnid=-1&uid=u13'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont198858&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle198858&timestylename=timestyle198858";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+		if(ajax.status=='12031')
+		{
+			temp++;
+			if(temp<2)
+			{
+				getRelateNews_ajax(temp);
+			}
+		}
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs198858js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+</ul></div></div>
+<div class="list-r fr">
+<div class="dt">
+<div class="h3">
+<div class="fl">校园动态</div>
+<div class="fr"><a href="../../xyxw.htm">更多+</a></div></div>
+<ul>   <li><a href="../1003/70865.htm" target="_blank" title="财务处召开干部任免宣布会议">财务处召开干部任免宣布会议</a></li>
+   <li><a href="../1003/70863.htm" target="_blank" title="西北工业大学召开党委学生工作部、机电学院经济责任审计进点会">西北工业大学召开党委学生工作部、机电...</a></li>
+   <li><a href="../1003/70862.htm" target="_blank" title="计算机学院赴365所开展科研交流活动">计算机学院赴365所开展科研交流活动</a></li>
+   <li><a href="../1003/70857.htm" target="_blank" title="图书馆组织参加学校“廉洁文化宣传教育月”法规政策联合宣讲活动">图书馆组织参加学校“廉洁文化宣传教育...</a></li>
+   <li><a href="../1003/70846.htm" target="_blank" title="航天学院圆满完成2020年党风廉政知识网上答题活动">航天学院圆满完成2020年党风廉政知识网...</a></li>
+<script>_showDynClickBatch(['dynclicks_u14_70865','dynclicks_u14_70863','dynclicks_u14_70862','dynclicks_u14_70857','dynclicks_u14_70846'],[70865,70863,70862,70857,70846],"wbnews", 867808034)</script>
+</ul>
+<ul>   <li><a href="../1003/70843.htm" target="_blank" title="【自动化学院党建】自动化学院多个支部入选西北工业大学第二批“双创”项目">【自动化学院党建】自动化学院多个支部...</a></li>
+   <li><a href="../1003/70842.htm" target="_blank" title="【自动化学院党建】自动化学院党员活动室入选西北工业大学首批示范性党员活动室">【自动化学院党建】自动化学院党员活动...</a></li>
+   <li><a href="../1003/70841.htm" target="_blank" title="自动化学院开展安全生产大检查">自动化学院开展安全生产大检查</a></li>
+   <li><a href="../1003/70837.htm" target="_blank" title="志愿精神薪火相传——西工大召开第21、22届研支团工作座谈会">志愿精神薪火相传——西工大召开第21、2...</a></li>
+   <li><a href="../1003/70836.htm" target="_blank" title="计算机学院专业召开专业宣讲会">计算机学院专业召开专业宣讲会</a></li>
+<script>_showDynClickBatch(['dynclicks_u15_70865','dynclicks_u15_70863','dynclicks_u15_70862','dynclicks_u15_70857','dynclicks_u15_70846','dynclicks_u15_70843','dynclicks_u15_70842','dynclicks_u15_70841','dynclicks_u15_70837','dynclicks_u15_70836'],[70865,70863,70862,70857,70846,70843,70842,70841,70837,70836],"wbnews", 867808034)</script>
+</ul></div><!-- 视频新闻 -->
+<div class="news-sp">
+<div class="h3">
+<div class="fl">视频新闻</div>
+<div class="fr"><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank">更多+</a></div></div>
+<div class="pic-list">
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-11/28/cms15664article.shtml" target="_blank" title="2019年11月22日第1092期"><img alt="" src="/__local/E/B2/C5/2F463E5331BEC02CBA60CB18426_7F8D2323_81989.png"> <span></span>2019年11月22日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/10/cms15665article.shtml" target="_blank" title="2019年12月06日第1093期"><img alt="" src="/__local/E/09/B5/DDAC3098E599D0AA93353C2F2A3_4FB1F270_887B3.png"> <span></span>2019年12月06日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/20/cms15667article.shtml" target="_blank" title="2019年12月20日第1094期"><img alt="" src="/__local/6/F0/B0/01B8D684A7EF2151F745FC8C0B0_56E7C6D0_5E271.png"> <span></span>2019年12月20日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/25/cms15674article.shtml" target="_blank" title="2020年01月10日第1095期"><img alt="" src="/__local/B/A0/EC/8F3E4EB354D46C864EA3E147DEE_DC641DDE_79E30.png"> <span></span>2020年01月10日第109...</a></li>
+<script>_showDynClickBatch(['dynclicks_u16_70808','dynclicks_u16_70807','dynclicks_u16_70806','dynclicks_u16_70800'],[70808,70807,70806,70800],"wbnews", 867808034)</script>
+</ul></div>
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/11/cms15673article.shtml" target="_blank" title="2020年05月09日第1096期">2020年05月09日第1096期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/27/cms15646article.shtml" target="_blank" title="2019年05月24日第1081期">2019年05月24日第1081期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/10/cms15644article.shtml" target="_blank" title="2019年05月10日第1080期">2019年05月10日第1080期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/28/cms15643article.shtml" target="_blank" title="2019年04月26日第1079期">2019年04月26日第1079期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/19/cms15641article.shtml" target="_blank" title="2019年04月19日第1078期">2019年04月19日第1078期</a></li>
+<script>_showDynClickBatch(['dynclicks_u17_70808','dynclicks_u17_70807','dynclicks_u17_70806','dynclicks_u17_70800','dynclicks_u17_70799','dynclicks_u17_63885','dynclicks_u17_63884','dynclicks_u17_63866','dynclicks_u17_62529'],[70808,70807,70806,70800,70799,63885,63884,63866,62529],"wbnews", 867808034)</script>
+</ul></div><!-- 官方微博 -->
+<div class="weibo">
+<ul>
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40203)" target="_blank"></a></li>
+
+
+
+    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40205)" target="_blank"></a></li>
+
+
+</ul></div></div></div>
+<div class="footer">
+<div class="wrapper" style="width:1000px;margin:0px auto;">
+<div class="footer-l fl">
+<p><span>友情链接</span>Links</p>
+<div class="select-menu">
+<div class="select-menu-div"><input class="select-menu-input input2" readonly=""> </div>
+<ul class="select-menu-ul">    <li class="select"><a href="http://www.nwpu.edu.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40190)" target="_blank">西北工业大学</a></li>
+    <li><a href="http://www.miit.gov.cn/newweb/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40198)" target="_blank">工业和信息化部</a></li>
+    <li><a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40199)" target="_blank">教育部</a></li>
+    <li><a href="http://www.univs.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40195)" target="_blank">中国大学生在线</a></li>
+    <li><a href="http://www.xinhuanet.com/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40200)" target="_blank">新华网</a></li>
+    <li><a href="http://www.gmw.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40291)" target="_blank">光明网</a></li>
+    <li><a href="http://www.peopledaily.com.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40201)" target="_blank">人民网</a></li>
+</ul></div></div>
+<div class="footer-m fl" style="position: relative;">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<ul class=" list-paddingleft-2" style="font-size: medium; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: normal; color: rgb(0,0,0); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; margin: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-stroke-width: 0px; font-variant-ligatures: normal; font-variant-caps: normal"><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">友谊校区地址：西安市友谊西路127号&nbsp;&nbsp;&nbsp;&nbsp;邮编:710072</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">长安校区地址：西安市长安区东祥路1号 邮编:710129</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">西北工业大学党委宣传部 @ 版权所有 Copyright 2006-2018</p></li></ul><p></p><a href="http://news.nwpu.edu.cn/info/1214/46843.htm" target="_blank" style="color:#fff;font-size:12px;position: absolute;bottom:9px;right:20px">免责声明</a></div>
+<div class="footer-r fr">
+<ul>    <li><img alt="" src="../../images2018/wxewm.jpg" style="width:111px;height:110px"> 
+<p>官方微信</p></li>
+<li><img alt="" src="../../images2018/wbewm.jpg" style="width:111px;height:110px"> 
+<p>官方微博</p></li>
+
+</ul></div></div></div></div><!-- list-main end --><script src="../../js2018/inner2018.js"></script>
+<script src="../../js2018/slide2018.js"></script><script>
+   $(function(){
+    var speed = 1000;//自定义滚动速度
+             //回到顶部
+             $( ".side-b li:eq(2)").click( function () {
+                 $( "html,body").animate({ "scrollTop" : 0 }, speed);
+                 });
+      $( ".side-m li:eq(0)").hover(function(){
+$(this).find('.bg-erweima').toggle();
+
+                $(this).find('img').toggle();
+             })
+             $( ".side-m li:eq(0)").hover(function(){
+             $('.side-m .bg-erweima').toggle();
+             });
+
+})
+</script>
+
+</body></html>
+
+version: 1.0
+url: https://news.nwpu.edu.cn/info/1002/70866.htm
+date: 2020-06-23 02:26:43
+length: 22932
+
+<html lang="en"><head><title>守纪律讲规矩，强化制度意识——学校组织开展政策法规联合宣讲-视窗-西北工业大学新闻网</title><meta name="keywords" content="视窗-西北工业大学新闻网,守纪律,规矩,强化,制度,意识,学校,组织,开展,政策法规,联合,宣讲">
+<meta name="description" content="西工大新闻网6月18日电（肖静）​党的十九届四中全会强调，坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化，是全党的一项重大战略任务。各级党委和政府以及各级领导干部要切实强化制度意识，带头维护制度权威，做制度执行的表率，带动全党全社会自觉尊崇制度、严格执行制度、坚决维护制度。">
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=EmulateIE8">
+<meta charset="UTF-8"><link rel="stylesheet" href="../../css2018/style2018.css"><script src="../../js2018/bdtxk2018.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css">
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:776562626572323069754754525b544003070000 -->
+<link rel="stylesheet" type="text/css" href="../../zzzcontent1.vsb.css">
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1002,'/zzzcontent1.jsp',70866,867808034)</script>
+</head>
+<body class="bg" style=""><!-- head start -->
+<div class="head">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<div class="head-l fl">
+<!-- 网站logo图片地址请在本组件"内容配置-网站logo"处填写 -->
+<a href="../../" title="新闻网"><img src="../../images2018/logo.png" width="425" height="63" border="0" alt="新闻网" title="新闻网"></a></div>
+<div class="head-r fr" style="width:530px;">
+<div class="head-r-t"><script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script><a href="../../xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40184)">新闻报道协调单</a>|
+<a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40186)">新闻热线</a>
+</div>
+<div class="head-r-b"><span><script language="javascript" src="/system/resource/js/calendar/simple.js"></script>               
+<script language="JavaScript">
+//阳历
+var c_Calendar198820EnDateString;
+
+var c_Calendar198820WeekDayString;
+
+//阴历
+var c_Calendar198820CnDateString;
+//节气
+var c_Calendar198820JQString;
+//年
+var c_Calendar198820YearString;
+//月
+var c_Calendar198820MonthString;
+//日
+var c_Calendar198820DayString;
+//周
+var c_Calendar198820WeekString;
+function RunGLNL198820()
+{          
+    var  sc =new Simple_Calendar ();
+    sc.init();
+    c_Calendar198820CnDateString=sc.getCnDateString();
+    c_Calendar198820WeekDayString=sc.getCalendarWeekString();
+    c_Calendar198820JQString=sc.getJQString();
+    c_Calendar198820EnDateString=sc.getEnDateString();
+    c_Calendar198820YearString=sc.getYearString();
+    c_Calendar198820MonthString=sc.getMonthString();
+    c_Calendar198820DayString=sc.getDayString();
+    c_Calendar198820WeekString=sc.getWeekString();
+}
+RunGLNL198820();
+document.write('<div id="c_lunar198820"   class="fontstyle198820"  >');       
+document.write(c_Calendar198820EnDateString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820WeekDayString);
+document.write("&nbsp;&nbsp;"+c_Calendar198820CnDateString);
+
+
+document.write("</div>");
+
+</script><div id="c_lunar198820" class="fontstyle198820">2020年6月23日&nbsp;&nbsp;星期二&nbsp;&nbsp;庚子年五月初三</div>
+</span>
+
+
+
+
+
+<form action="../../zzzsearch1.jsp?wbtreeid=1002" method="post" name="a198819a" onsubmit="return subsearchdataa198819a()" style="display: inline;">
+  <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+<input size="12" name="INTEXT" class="ss" placeholder="请输入关键字" style="height:32px">
+<input type="image" class="btn" src="../../images2018/search.png" align="absmiddle" valign="bottom" style="cursor: hand">
+               
+</form>
+<script>
+String.prototype.trim　= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+function subsearchdataa198819a()
+{ 
+    if(document.a198819a.INTEXT.value.trim()=="")
+    {
+         alert("请输入查询关键字！");
+         return false;
+    }
+    if(checkDataa198819a(document.a198819a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script> 
+    function checkDataa198819a(formname)
+    {
+        if(a198819a.INTEXT.value.trim()=="")
+        {
+            alert("请输入查询关键字！");
+            return false;
+        }       
+        var  base64 = new Base64();
+        if(window.toFF==1)
+            {
+                var ssvalue = a198819a.INTEXT.value;
+                document.a198819a.INTEXT2.value = base64.encode(Simplized(ssvalue));
+            }else
+            document.a198819a.INTEXT2.value = base64.encode(document.a198819a.INTEXT.value);
+           return true;
+    }
+    </script>
+<script language="javascript" src="/system/resource/js/base64.js"></script> 
+</div></div></div></div>
+<div class="nav">
+<div class="wrapper" style="width:1000px;margin:0px auto">
+<ul>    <li><a href="../../index.htm" title="首    页">首    页</a></li>
+    <li><a href="../../rdjj.htm" title="热点聚焦">热点聚焦</a></li>
+    <li><a href="../../gdyw.htm" title="工大要闻">工大要闻</a></li>
+    <li><a href="../../xyxw.htm" title="校园动态">校园动态</a></li>
+    <li><a href="../../mtgd.htm" title="媒体工大">媒体工大</a></li>
+    <li><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank" title="视频新闻">视频新闻</a></li>
+</ul></div></div>
+<div class="clear"></div>
+
+<!-- 侧边栏 -->
+<div class="side">
+<ul class="side-t">    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40220)"><p>新闻报道协调单</p></a></li>
+    <li><a href="../../index/xwrx.htm" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40222)"><p>新闻热线</p></a></li>
+</ul>
+<ul class="side-m">    <li><a href="javascript:void(0)" title="" onclick="_addDynClicks(&quot;wbimage&quot;, 867808034, 41960)" target="_blank"></a><div class="bg-erweima"><img src="../../images2018/wxm.png"></div> </li>
+
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40301)" target="_" blank=""><p style="top:20px">微博</p></a></li>
+</ul>
+<ul class="side-b">
+    <li><a href="#" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40223)"></a></li>
+
+<li><a href="javascript:void(0)"><img src="../../images2018/side5.png"></a>
+<!-- 下面这个div是二维码容器,ID不能变-->
+<div class="bg-erweima"><div id="outputu9" style="width: 80px;height:80px;padding:3px;position:absolute;top:12px;right:52px;display:none;background:#fff"><canvas width="80" height="80"></canvas></div></div>
+<!-- 下面是生成二维码调用的JS，不要动-->
+<script language="javascript" src="/system/resource/js/jquery/jquery-latest.min.js"></script>
+<script src="/system/resource/qrcode/js/jquery.qrcode.js"></script>
+<script src="/system/resource/qrcode/js/qrcode.js"></script>
+<script>
+var codeInfo = "" ==""? window.location.href:"";
+jQuery(function(){
+    jQuery('#outputu9').qrcode({
+        text:codeInfo,
+        render: !!document.createElement('canvas').getContext?"canvas":"table",//设置渲染方式  
+        width: 80,     //设置宽度  
+        height: 80,     //设置高度  
+        correctLevel: 0,//纠错等级  
+        background: "#ffffff",//背景颜色  
+        foreground: "#000000",//前景颜色  
+        logo:""//图像logo
+    });
+
+
+})
+
+
+</script>
+<script>
+jQuery(function(){
+jQuery('.side li').hover(function(){
+	$(this).find('#outputu9').toggle();
+$(this).find('.bg-erweima').toggle();
+})
+})
+</script> 
+</li><li><a href="#"></a></li></ul></div>
+<!-- list-main start -->
+<div class="list-main">
+<div class="wrapper" style="width:1000px;margin:0px auto;overflow:hidden">
+<div class="fl info-l">
+<div class="h3"><span class="fl">工大要闻</span><span class="fr"><div style="font-size:14px">
+    当前位置: 
+                        <a href="../../index.htm" style="font-size:14px">首    页</a>
+                &gt;&gt;
+                <a href="../../gdyw.htm" style="font-size:14px">工大要闻</a>
+                &gt;&gt;
+                正文
+</div></span></div>
+<div class="artical">
+<script language="javascript" src="../../_dwr/interface/NewsvoteDWR.js"></script><script language="javascript" src="../../_dwr/engine.js"></script><script language="javascript" src="/system/resource/js/news/newscontent.js"></script><link href="/system/resource/js/photoswipe/3.0.5.1/photoswipe.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/photoswipe/3.0.5.1/klass.min.js"></script><link href="/system/resource/style/component/news/content/format2.css" type="text/css" rel="stylesheet"><script language="javascript" src="/system/resource/js/ajax.js"></script><form name="_newscontent_fromname">
+<div>
+    <h5 align="center">守纪律讲规矩，强化制度意识——学校组织开展政策法规联合宣讲</h5>
+<div class="time">
+<span>发布时间：2020-06-18 16:18:13</span>
+<span style="margin-left:10px">作者：肖静</span>
+<span style="margin-left:10px">来源：纪委办公室
+     </span>
+<span style="margin-left:10px">已浏览：<script>_showDynClicks("wbnews", 867808034, 70866)</script><span id="dynclicks_wbnews_70866_675" name="dynclicks_wbnews_70866_675">82</span></span>
+</div>
+    <div class="nr" id="vsb_content_2"><div class="v_news_content">
+<p class="vsbcontent_start"><strong>西工大新闻网</strong><strong>6</strong><strong>月</strong><strong>18</strong><strong>日电</strong>（<strong>肖静</strong>）党的十九届四中全会强调，坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化，是全党的一项重大战略任务。各级党委和政府以及各级领导干部要切实强化制度意识，带头维护制度权威，做制度执行的表率，带动全党全社会自觉尊崇制度、严格执行制度、坚决维护制度。</p>
+<p>在推进学校治理体系和治理能力现代化、实现内涵式发展的过程中，加强政策宣贯、强化制度意识是推动制度落地、增强制度执行力的重要举措之一。作为2020年廉洁文化宣传教育月“八个一”活动的一项重要内容，5月14日至6月17日，纪委办公室联合党委教师工作部、科学技术研究院、研究生院、国际合作处、招标与设备采购中心、财务处、国有资产管理处、发展规划处共9部门，摸清需求、主动服务，就党纪党规、师德师风、科研政策、研究生教育、因公出国（境）、招标采购、经费管理、固定资产管理、“双一流”专项资金申报等，深入基层、走进教师，举办了8场线上政策法规联合宣讲，主动为基层答疑解惑，参与教职工2100余人次。</p>
+<p style="text-align: center;"><strong>创新宣讲方式，精心组织谋划</strong></p>
+<p>受疫情防控影响，此轮联合宣讲均采取线上腾讯会议方式进行，老师们足不出户，就可以方便便捷地了解到学校相关政策制度，省时省力受到好评。在联合宣讲策划阶段，相关职能部门指定处级干部成立联合宣讲团，就各领域需要宣讲的制度和事项开展多轮讨论，学校纪委书记严格审核宣讲主题，宣讲团向基层单位提供了九方面15个主题的模块化菜单，主办学院在广泛征求教职工意见的基础上反馈重点宣讲主题。宣讲团根据基层选择重点，对标对标上级要求，反复打磨PPT，在单位内部进行研讨试讲，为联合宣讲的顺利举行做好准备。</p>
+<p style="text-align: center;"><strong>基层高度重视，教育覆盖面广</strong></p>
+<p>航空学院党委、航天学院党委、航海学院党委、材料学院党委、机电学院党委、动力与能源学院党委、理学学院联合党委、管理学院党委作为此轮联合宣讲的主要承办单位，高度重视、精心组织，积极与其他基层党委（党总支）沟通协调时间、商讨议程程序、组织教职员工踊跃参与，开设连线分会场，为联合宣讲顺利开展提供了基本保证。政策法规联合宣讲共举办了八场，学校35个基层党委、党总支全覆盖。</p>
+<p class="vsbcontent_img"><img width="600" src="/__local/0/EF/B8/C2459F4E9DF1692DADDDC8790F9_838FFE7E_18F0A7.png" vwidth="600" vheight="" vurl="/_vsl/0EFB8C2459F4E9DF1692DADDDC8790F9/838FFE7E/18F0A7" vsbhref="vurl" orisrc="/__local/0/EF/B8/C2459F4E9DF1692DADDDC8790F9_838FFE7E_18F0A7.png" class="img_vsb_content"></p>
+<p style="text-align: center;"><strong>主题内容丰富，宣讲实效明显</strong></p>
+<p>联合宣讲涉及案例警示教育、师德师风、学术道德、科研业务网上办理、科技奖励、专利转化、研究生教育政策、教职工因公出国（境）政策、招投标政策、货物及服务类合同审签政策、科研财务政策、个税法实务解析、财务报销注意事项、固定资产管理和公房核算政策、“双一流”专项资金申报等15个主题，宣讲内容中既有上级政策宣贯也有校内制度解读，既有红线底线要求又有具体案例，既有网上办事流程展示也有关于进一步改进工作的思考。宣讲过程中，参会教师认真听、仔细记，不时提出问题进行线上互动交流，宣讲成员就老师们关心的问题耐心解答。老师们纷纷表示，宣讲内容丰富、形式创新、收获很大，同时对宣讲团的辛勤付出表示感谢。</p>
+<p class="vsbcontent_img"><img width="600" src="/__local/1/CA/40/52ED3FFEF7501A1585D1635C7E1_3C1A3490_F516A.png" vwidth="600" vheight="" vurl="/_vsl/1CA4052ED3FFEF7501A1585D1635C7E1/3C1A3490/F516A" vsbhref="vurl" orisrc="/__local/1/CA/40/52ED3FFEF7501A1585D1635C7E1_3C1A3490_F516A.png" class="img_vsb_content"></p>
+<p class="vsbcontent_img"><img width="600" src="/__local/D/6A/06/540B27F36C90DE8C3DC7DA6A7E5_2DDFF2A5_139031.png" vwidth="600" vheight="" vurl="/_vsl/D6A06540B27F36C90DE8C3DC7DA6A7E5/2DDFF2A5/139031" vsbhref="vurl" orisrc="/__local/D/6A/06/540B27F36C90DE8C3DC7DA6A7E5_2DDFF2A5_139031.png" class="img_vsb_content"><img width="600" src="/__local/D/75/7C/972687A01A192F3D07CBC6B4A33_B5C7065F_D338C.png" vwidth="600" vheight="" vurl="/_vsl/D757C972687A01A192F3D07CBC6B4A33/B5C7065F/D338C" vsbhref="vurl" orisrc="/__local/D/75/7C/972687A01A192F3D07CBC6B4A33_B5C7065F_D338C.png" class="img_vsb_content"></p>
+<p style="text-align: center;"><strong>领导高度重视，全程参与指导</strong></p>
+<p>学校党委副书记、纪委书记张海兰全程参与并指导此轮政策法规联合宣讲，她亲自对宣讲主题和PPT逐一审核把关，并在每场联合宣讲中为大家带来开讲词，对不断改进完善联合宣讲提出意见建议。她在开讲词中讲到，此次政策法规联合宣讲是贯彻落实党的十九届四中全会精神的重要举措，是推动学校相关政策制度落实落地的有力措施，同时也是机关职能部门主动服务基层、服务教师的具体行动。她要求各宣讲单位在加强制度执行情况检查的同时，注重收集意见建议，不断提高制度建设的科学性、系统性和有效性，要常态化主动开展法规政策答疑解惑。同时对广大教职工提出希望和要求，一是希望老师们强化规矩纪律意识，廉洁从教、廉洁从研，把对制度的敬畏，转化为从教、从研准则和自觉行动；二是希望老师们以德立学、以德施教，强化“学生为根、育人为本”意识，树立良好师德师风，恪守学术道德规范，给青年学生做好表率、当好人生领路人；三是要求各级党员干部要到以身作则、廉洁自律，不断增强制度意识和带头执行制度的自觉性。</p>
+<p>政策法规联合宣讲是学校廉洁文化宣传教育月的特色品牌项目，在今年疫情防控新形势下，不断创新宣传教育模式，取得了良好效果。学校党风廉政教育联席单位及相关职能部门也将进一步总结经验、科学谋划，线上线下结合、创新活动形式，不断提高教育针对性和实效性，为进一步深化学校党风廉政建设、推进学校治理体系和治理能力现代化做出应有的努力。</p>
+<p class="vsbcontent_end" style="text-align: right;">（审稿：张爽）</p>
+</div></div><div id="div_vote_id"></div>
+    
+</div>
+</form></div><!-- 相关文章 -->
+<div class="xiangguan">
+<div class="h5">相关文章</div>
+<ul>
+
+<span id="relateNewsjs198858js">读取内容中,请等待...</span>
+
+<script language="JavaScript">
+getRelateNewsjs198858js(0);
+function getRelateNewsjs198858js(temp)
+{
+    var pars = 'archive=0&clickstyle=clickstyle198858&viewid=198858&leaderchar=&titlelen=32&days=3&endimage=&clickshow=false&clickname=%E7%82%B9%E5%87%BB%EF%BC%9A+&&linkmode=_blank&mode=10&pageUrl=/system/_owners/view/_webprj/zzzcontent1.jsp&columnshow=false&wbnewsid=70866&owner=867808034&limitdays=182&rowcount=5&columnstyle= columnstyle198858 &columnid=-1&uid=u13'; 
+    var url = '/system/resource/code/relatenews.jsp?'+pars;
+
+    //需要POST的值，把每个变量都通过&来联接
+    var postStr   = "winstyle=winstyle&leaderfont=leaderfont198858&leaderimage=&linkmode=target=_blank&titlestylename=titlestyle198858&timestylename=timestyle198858";
+    //实例化Ajax
+    var ajax = false;
+    //开始初始化XMLHttpRequest对象
+    if(window.XMLHttpRequest)
+    {   //Mozilla 浏览器
+        ajax = new XMLHttpRequest();
+        if (ajax.overrideMimeType)
+        {   //设置MiME类别
+            ajax.overrideMimeType("text/xml");
+        }
+    }
+    else if (window.ActiveXObject)
+    {   // IE浏览器
+        try
+        {
+            ajax = new ActiveXObject("MSXML2.XMLHTTP.6.0");
+        }
+        catch (e)
+        {
+            try
+            {
+                ajax = new ActiveXObject("MSXML2.XMLHTTP.3.0");
+            }
+            catch (e) {}
+         }
+    }
+    if (!ajax)
+    {   // 异常，创建对象实例失败
+        window.alert("不能创建XMLHttpRequest对象实例.");
+        return false;
+    }
+    //通过Post方式打开连接
+    ajax.open("POST", url, true);
+    //定义传输的文件HTTP头信息
+    ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    //发送POST数据
+    ajax.send(postStr);
+    //获取执行状态
+    
+    ajax.onreadystatechange = function()
+    {
+		if(ajax.status=='12031')
+		{
+			temp++;
+			if(temp<2)
+			{
+				getRelateNews_ajax(temp);
+			}
+		}
+        //如果执行状态成功，那么就把返回信息写到指定的层里
+        if (ajax.readyState == 4 && ajax.status == 200)
+        {
+            document.getElementById("relateNewsjs198858js").innerHTML = ajax.responseText;
+        }
+    }
+}
+</script>
+</ul></div></div>
+<div class="list-r fr">
+<div class="dt">
+<div class="h3">
+<div class="fl">校园动态</div>
+<div class="fr"><a href="../../xyxw.htm">更多+</a></div></div>
+<ul>   <li><a href="../1003/70865.htm" target="_blank" title="财务处召开干部任免宣布会议">财务处召开干部任免宣布会议</a></li>
+   <li><a href="../1003/70863.htm" target="_blank" title="西北工业大学召开党委学生工作部、机电学院经济责任审计进点会">西北工业大学召开党委学生工作部、机电...</a></li>
+   <li><a href="../1003/70862.htm" target="_blank" title="计算机学院赴365所开展科研交流活动">计算机学院赴365所开展科研交流活动</a></li>
+   <li><a href="../1003/70857.htm" target="_blank" title="图书馆组织参加学校“廉洁文化宣传教育月”法规政策联合宣讲活动">图书馆组织参加学校“廉洁文化宣传教育...</a></li>
+   <li><a href="../1003/70846.htm" target="_blank" title="航天学院圆满完成2020年党风廉政知识网上答题活动">航天学院圆满完成2020年党风廉政知识网...</a></li>
+<script>_showDynClickBatch(['dynclicks_u14_70865','dynclicks_u14_70863','dynclicks_u14_70862','dynclicks_u14_70857','dynclicks_u14_70846'],[70865,70863,70862,70857,70846],"wbnews", 867808034)</script>
+</ul>
+<ul>   <li><a href="../1003/70843.htm" target="_blank" title="【自动化学院党建】自动化学院多个支部入选西北工业大学第二批“双创”项目">【自动化学院党建】自动化学院多个支部...</a></li>
+   <li><a href="../1003/70842.htm" target="_blank" title="【自动化学院党建】自动化学院党员活动室入选西北工业大学首批示范性党员活动室">【自动化学院党建】自动化学院党员活动...</a></li>
+   <li><a href="../1003/70841.htm" target="_blank" title="自动化学院开展安全生产大检查">自动化学院开展安全生产大检查</a></li>
+   <li><a href="../1003/70837.htm" target="_blank" title="志愿精神薪火相传——西工大召开第21、22届研支团工作座谈会">志愿精神薪火相传——西工大召开第21、2...</a></li>
+   <li><a href="../1003/70836.htm" target="_blank" title="计算机学院专业召开专业宣讲会">计算机学院专业召开专业宣讲会</a></li>
+<script>_showDynClickBatch(['dynclicks_u15_70865','dynclicks_u15_70863','dynclicks_u15_70862','dynclicks_u15_70857','dynclicks_u15_70846','dynclicks_u15_70843','dynclicks_u15_70842','dynclicks_u15_70841','dynclicks_u15_70837','dynclicks_u15_70836'],[70865,70863,70862,70857,70846,70843,70842,70841,70837,70836],"wbnews", 867808034)</script>
+</ul></div><!-- 视频新闻 -->
+<div class="news-sp">
+<div class="h3">
+<div class="fl">视频新闻</div>
+<div class="fr"><a href="http://etv.nwpu.edu.cn/db/dsxw/dianshixinwen.shtml" target="_blank">更多+</a></div></div>
+<div class="pic-list">
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-11/28/cms15664article.shtml" target="_blank" title="2019年11月22日第1092期"><img alt="" src="/__local/E/B2/C5/2F463E5331BEC02CBA60CB18426_7F8D2323_81989.png"> <span></span>2019年11月22日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/10/cms15665article.shtml" target="_blank" title="2019年12月06日第1093期"><img alt="" src="/__local/E/09/B5/DDAC3098E599D0AA93353C2F2A3_4FB1F270_887B3.png"> <span></span>2019年12月06日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-12/20/cms15667article.shtml" target="_blank" title="2019年12月20日第1094期"><img alt="" src="/__local/6/F0/B0/01B8D684A7EF2151F745FC8C0B0_56E7C6D0_5E271.png"> <span></span>2019年12月20日第109...</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/25/cms15674article.shtml" target="_blank" title="2020年01月10日第1095期"><img alt="" src="/__local/B/A0/EC/8F3E4EB354D46C864EA3E147DEE_DC641DDE_79E30.png"> <span></span>2020年01月10日第109...</a></li>
+<script>_showDynClickBatch(['dynclicks_u16_70808','dynclicks_u16_70807','dynclicks_u16_70806','dynclicks_u16_70800'],[70808,70807,70806,70800],"wbnews", 867808034)</script>
+</ul></div>
+<ul>   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2020-05/11/cms15673article.shtml" target="_blank" title="2020年05月09日第1096期">2020年05月09日第1096期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/27/cms15646article.shtml" target="_blank" title="2019年05月24日第1081期">2019年05月24日第1081期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-05/10/cms15644article.shtml" target="_blank" title="2019年05月10日第1080期">2019年05月10日第1080期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/28/cms15643article.shtml" target="_blank" title="2019年04月26日第1079期">2019年04月26日第1079期</a></li>
+   <li><a href="http://etv.nwpu.edu.cn/db/dsxw/2019-04/19/cms15641article.shtml" target="_blank" title="2019年04月19日第1078期">2019年04月19日第1078期</a></li>
+<script>_showDynClickBatch(['dynclicks_u17_70808','dynclicks_u17_70807','dynclicks_u17_70806','dynclicks_u17_70800','dynclicks_u17_70799','dynclicks_u17_63885','dynclicks_u17_63884','dynclicks_u17_63866','dynclicks_u17_62529'],[70808,70807,70806,70800,70799,63885,63884,63866,62529],"wbnews", 867808034)</script>
+</ul></div><!-- 官方微博 -->
+<div class="weibo">
+<ul>
+    <li><a href="https://weibo.com/npustar?is_hot=1" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40203)" target="_blank"></a></li>
+
+
+
+    <li><a href="../../css2018/xinwenshenqingdan20180528.doc" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40205)" target="_blank"></a></li>
+
+
+</ul></div></div></div>
+<div class="footer">
+<div class="wrapper" style="width:1000px;margin:0px auto;">
+<div class="footer-l fl">
+<p><span>友情链接</span>Links</p>
+<div class="select-menu">
+<div class="select-menu-div"><input class="select-menu-input input2" readonly=""> </div>
+<ul class="select-menu-ul">    <li class="select"><a href="http://www.nwpu.edu.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40190)" target="_blank">西北工业大学</a></li>
+    <li><a href="http://www.miit.gov.cn/newweb/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40198)" target="_blank">工业和信息化部</a></li>
+    <li><a href="http://www.moe.gov.cn" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40199)" target="_blank">教育部</a></li>
+    <li><a href="http://www.univs.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40195)" target="_blank">中国大学生在线</a></li>
+    <li><a href="http://www.xinhuanet.com/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40200)" target="_blank">新华网</a></li>
+    <li><a href="http://www.gmw.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40291)" target="_blank">光明网</a></li>
+    <li><a href="http://www.peopledaily.com.cn/" title="" onclick="_addDynClicks(&quot;wburl&quot;, 867808034, 40201)" target="_blank">人民网</a></li>
+</ul></div></div>
+<div class="footer-m fl" style="position: relative;">
+<!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<ul class=" list-paddingleft-2" style="font-size: medium; font-family: 微软雅黑; white-space: normal; word-spacing: 0px; text-transform: none; font-weight: normal; color: rgb(0,0,0); padding-bottom: 0px; font-style: normal; padding-top: 0px; padding-left: 0px; margin: 0px; orphans: 2; widows: 2; letter-spacing: normal; padding-right: 0px; text-indent: 0px; -webkit-text-stroke-width: 0px; font-variant-ligatures: normal; font-variant-caps: normal"><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">友谊校区地址：西安市友谊西路127号&nbsp;&nbsp;&nbsp;&nbsp;邮编:710072</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">长安校区地址：西安市长安区东祥路1号 邮编:710129</p></li><li><p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">西北工业大学党委宣传部 @ 版权所有 Copyright 2006-2018</p></li></ul><p></p><a href="http://news.nwpu.edu.cn/info/1214/46843.htm" target="_blank" style="color:#fff;font-size:12px;position: absolute;bottom:9px;right:20px">免责声明</a></div>
+<div class="footer-r fr">
+<ul>    <li><img alt="" src="../../images2018/wxewm.jpg" style="width:111px;height:110px"> 
+<p>官方微信</p></li>
+<li><img alt="" src="../../images2018/wbewm.jpg" style="width:111px;height:110px"> 
+<p>官方微博</p></li>
+
+</ul></div></div></div></div><!-- list-main end --><script src="../../js2018/inner2018.js"></script>
+<script src="../../js2018/slide2018.js"></script><script>
+   $(function(){
+    var speed = 1000;//自定义滚动速度
+             //回到顶部
+             $( ".side-b li:eq(2)").click( function () {
+                 $( "html,body").animate({ "scrollTop" : 0 }, speed);
+                 });
+      $( ".side-m li:eq(0)").hover(function(){
+$(this).find('.bg-erweima').toggle();
+
+                $(this).find('img').toggle();
+             })
+             $( ".side-m li:eq(0)").hover(function(){
+             $('.side-m .bg-erweima').toggle();
+             });
+
+})
+</script>
+
+</body></html>
