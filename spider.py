@@ -10,25 +10,25 @@ import hashlib
 # url 种子：40页内容
 url_seeds = [
     'https://news.nwpu.edu.cn/gdyw/1585.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1584.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1583.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1582.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1581.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1580.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1579.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1578.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1577.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1576.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1575.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1574.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1573.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1572.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1571.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1570.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1569.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1568.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1567.htm',
-    # 'https://news.nwpu.edu.cn/gdyw/1566.htm',
+    'https://news.nwpu.edu.cn/gdyw/1584.htm',
+    'https://news.nwpu.edu.cn/gdyw/1583.htm',
+    'https://news.nwpu.edu.cn/gdyw/1582.htm',
+    'https://news.nwpu.edu.cn/gdyw/1581.htm',
+    'https://news.nwpu.edu.cn/gdyw/1580.htm',
+    'https://news.nwpu.edu.cn/gdyw/1579.htm',
+    'https://news.nwpu.edu.cn/gdyw/1578.htm',
+    'https://news.nwpu.edu.cn/gdyw/1577.htm',
+    'https://news.nwpu.edu.cn/gdyw/1576.htm',
+    'https://news.nwpu.edu.cn/gdyw/1575.htm',
+    'https://news.nwpu.edu.cn/gdyw/1574.htm',
+    'https://news.nwpu.edu.cn/gdyw/1573.htm',
+    'https://news.nwpu.edu.cn/gdyw/1572.htm',
+    'https://news.nwpu.edu.cn/gdyw/1571.htm',
+    'https://news.nwpu.edu.cn/gdyw/1570.htm',
+    'https://news.nwpu.edu.cn/gdyw/1569.htm',
+    'https://news.nwpu.edu.cn/gdyw/1568.htm',
+    'https://news.nwpu.edu.cn/gdyw/1567.htm',
+    'https://news.nwpu.edu.cn/gdyw/1566.htm',
     # 'https://news.nwpu.edu.cn/gdyw/1565.htm',
     # 'https://news.nwpu.edu.cn/gdyw/1564.htm',
     # 'https://news.nwpu.edu.cn/gdyw/1563.htm',
@@ -68,8 +68,7 @@ pageIndex = [
 # url索引
 urlIndex = []
 
-# 应用MD5算法
-md5 = hashlib.md5()
+
 
 # 初始化visited矩阵，记录哪些页面已经被爬过了
 def init_dic():
@@ -84,7 +83,7 @@ def init_dic():
 # 加载 visited矩阵
 def load_dic():
     global Dic
-    file = open('visited-set.json', 'r')
+    file = open('visited-set.json', 'r', encoding='UTF-8')
     js = file.read()
     Dic = json.loads(js)
     # print(Dic['0'])
@@ -94,23 +93,24 @@ def load_dic():
 def save_dic():
     # Dic['0'] = 1
     js = json.dumps(Dic)
-    file = open('visited-set.json', 'w')
+    file = open('visited-set.json', 'w', encoding='UTF-8')
     
     file.write(js)
     file.close()
 
 # 读取json文件到字典
 def load_json(filename):
-    file = open(filename, 'r')
+    file = open(filename, 'r', encoding='UTF-8')
     js = file.read()
     file.close()
 
-    return json.loads(js)
+    dic = json.loads(js)
+    return dic
 
 # 从字典到json
 def save_json(data, filename):
     js = json.dumps(data)
-    file = open(filename, 'w')
+    file = open(filename, 'w', encoding='UTF-8')
     file.write(js)
     file.close()
 
@@ -151,6 +151,9 @@ def save_raw_page(data, rawfile, url):
 
 # 传入字符串，返回 hash值
 def get_md5(data):
+    # 应用MD5算法
+    md5 = hashlib.md5()
+    
     md5.update(data.encode('utf-8'))
 
     return md5.hexdigest()
@@ -160,6 +163,7 @@ def append_pageIndex(data, cnt, index):
     data_md5 = get_md5(data)
 
     pageIndex[-1]['md5'] = data_md5
+    #pageIndex[-1]['pagelen'] = len(data)
     pageIndex.append({'No': cnt, 'offset':index, 'md5': None})
     
 
@@ -172,7 +176,7 @@ def append_urlIndex(url, cnt):
 def function(data):
     return data['url']
 
-# 从种子中解析需要爬取的url
+# 从种子中解析需要爬取的urls
 def get_urls():
     browser = webdriver.Chrome(chromedriver)
 
@@ -190,7 +194,7 @@ def get_urls():
                 urls.append(url)
 
     # 保存字典
-    save_dic()
+    # save_dic()
 
     browser.close()
     
@@ -224,6 +228,7 @@ def get_sourcepage():
         append_pageIndex(browser.page_source, cnt, raw_page_offset)
         # url索引文件
         append_urlIndex(url, cnt - 1)
+
 
 
     
