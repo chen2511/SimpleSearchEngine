@@ -1,0 +1,61 @@
+<!doctype html>
+<html ng-app="app">
+ 
+ 
+<head>
+    <meta charset="UTF-8">
+    <title>搜索</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+    <style type="text/css">
+      .bod1
+      {
+          /*background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);*/
+          /*background-image: url(" 2558.jpg");*/
+          /*background-size:cover;*/
+          /* background: #aa4b6b;  /* fallback for old browsers */
+          /* background: -webkit-linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);  Chrome 10-25, Safari 5.1-6 */
+          /* background: linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background-image: url(http://img1.imgtn.bdimg.com/it/u=351009042,2426292349&fm=26&gp=0.jpg); 
+            background-repeat: no-repeat;
+            background-size: auto 100%;
+            background-position: center;
+            background-attachment: fixed;
+          
+      }
+  </style>
+
+</head>
+
+
+
+
+<body ng-controller="ctrl" class="bod1">
+ 
+ 
+   <div class="container">
+      <br>
+      <br>
+      <form class="form-inline" method="post" action="/">
+           <div class="form-group">
+               <input type="text" style="height: 40px; width: 360px;" class="form-control" ng-model="query" value="{{ value }}" name="query" id="query"/>
+           </div>
+           <input class="btn btn-small btn-success" role="button" type="submit" value="新闻搜一下" id="btn">
+      </form>
+      <br>
+      <br>共有{{ length }}条结果
+      <br>
+      <div id="box">
+            {% for result in results %}
+         <p><a href="{{ result[1] }}" target="_blank">{{ result[0]|safe }}</a></p>
+         <p>摘要：{{ result[2] }}</p>
+         <p>来源：{{ result[1] }}</p>
+         <br>
+            {% endfor %}
+      </div>
+   </div>
+   </body>
+</html>
